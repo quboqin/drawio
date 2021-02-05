@@ -1,206 +1,209 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T05:59:42.102Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="LeGPTWpxVxNeL2jdUC0_" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-05T06:01:16.655Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="TS2e8lEYekQQlLfF1BMP" version="14.2.9" type="github">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="1694" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="trvjEH5c3W9_KcDelt6N-1" value="root" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="780" width="90" height="40" as="geometry" />
+          <mxGeometry x="300" y="810" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-2" value="create a front-end project&lt;br style=&quot;font-size: 10px&quot;&gt;based on VUE 3.0 and Element Plus" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="295" y="650" width="190" height="60" as="geometry" />
+          <mxGeometry x="305" y="680" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-3" value="set up a serverless back-end service" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="580" y="540" width="190" height="60" as="geometry" />
+          <mxGeometry x="590" y="570" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-4" value="&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-size: 10px ; background-color: rgb(255 , 255 , 255)&quot;&gt;build a good project setup and workflow for writing a Node api rest in TypeScript using KOA 2 and an SQL DB&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingTop=0;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
-          <mxGeometry x="110" y="400" width="225" height="100" as="geometry" />
+          <mxGeometry x="120" y="430" width="225" height="100" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-5" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-1" target="trvjEH5c3W9_KcDelt6N-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="560" as="sourcePoint" />
-            <mxPoint x="220" y="510" as="targetPoint" />
+            <mxPoint x="180" y="590" as="sourcePoint" />
+            <mxPoint x="230" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="760" />
+              <mxPoint x="380" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-6" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-2" target="trvjEH5c3W9_KcDelt6N-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="560" as="sourcePoint" />
-            <mxPoint x="220" y="510" as="targetPoint" />
+            <mxPoint x="180" y="590" as="sourcePoint" />
+            <mxPoint x="230" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="650" />
+              <mxPoint x="570" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-7" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-2" target="trvjEH5c3W9_KcDelt6N-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="560" as="sourcePoint" />
-            <mxPoint x="220" y="510" as="targetPoint" />
+            <mxPoint x="180" y="590" as="sourcePoint" />
+            <mxPoint x="230" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280" y="590" />
+              <mxPoint x="290" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-8" value="add auth to the VUE app" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="480" y="300" width="140" height="70" as="geometry" />
+          <mxGeometry x="490" y="330" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-9" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-4" target="trvjEH5c3W9_KcDelt6N-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="540" as="sourcePoint" />
-            <mxPoint x="470" y="490" as="targetPoint" />
+            <mxPoint x="430" y="570" as="sourcePoint" />
+            <mxPoint x="480" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="370" />
+              <mxPoint x="380" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-10" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-3" target="trvjEH5c3W9_KcDelt6N-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="480" as="sourcePoint" />
-            <mxPoint x="530" y="430" as="targetPoint" />
+            <mxPoint x="490" y="510" as="sourcePoint" />
+            <mxPoint x="540" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="440" />
+              <mxPoint x="700" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-11" value="test payment using Stripe API" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
-          <mxGeometry x="440" y="180" width="140" height="70" as="geometry" />
+          <mxGeometry x="450" y="210" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-12" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-8" target="trvjEH5c3W9_KcDelt6N-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="600" as="sourcePoint" />
-            <mxPoint x="480" y="550" as="targetPoint" />
+            <mxPoint x="440" y="630" as="sourcePoint" />
+            <mxPoint x="490" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-13" value="build an E-commercial web app" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
-          <mxGeometry x="285" y="90" width="140" height="70" as="geometry" />
+          <mxGeometry x="295" y="120" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-14" value="connect to a RDS or DynamoDB" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
-          <mxGeometry x="390" y="450" width="150" height="70" as="geometry" />
+          <mxGeometry x="400" y="480" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-15" value="" style="endArrow=classic;html=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-4" target="trvjEH5c3W9_KcDelt6N-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="450" as="sourcePoint" />
-            <mxPoint x="610" y="400" as="targetPoint" />
+            <mxPoint x="570" y="480" as="sourcePoint" />
+            <mxPoint x="620" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-16" value="" style="endArrow=classic;html=1;fontSize=10;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-3" target="trvjEH5c3W9_KcDelt6N-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="450" as="sourcePoint" />
-            <mxPoint x="610" y="400" as="targetPoint" />
+            <mxPoint x="570" y="480" as="sourcePoint" />
+            <mxPoint x="620" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-17" value="" style="endArrow=classic;html=1;fontSize=10;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-11" target="trvjEH5c3W9_KcDelt6N-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="450" as="sourcePoint" />
-            <mxPoint x="610" y="400" as="targetPoint" />
+            <mxPoint x="570" y="480" as="sourcePoint" />
+            <mxPoint x="620" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-20" value="VUE 3.0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="505" y="840" width="90" height="30" as="geometry" />
+          <mxGeometry x="515" y="870" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-21" value="Typescript" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="505" y="810" width="90" height="30" as="geometry" />
+          <mxGeometry x="515" y="840" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-22" value="开发环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="505" y="870" width="90" height="30" as="geometry" />
+          <mxGeometry x="515" y="900" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-24" value="Webpack 5.0 and Vite" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="505" y="780" width="90" height="30" as="geometry" />
+          <mxGeometry x="515" y="810" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-26" value="UI Framework" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="505" y="750" width="90" height="30" as="geometry" />
+          <mxGeometry x="515" y="780" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-27" value="Serverless Framework and AWS Lambda" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="720" y="700" width="90" height="40" as="geometry" />
+          <mxGeometry x="730" y="730" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-28" value="IAM Basic" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="720" y="790" width="90" height="30" as="geometry" />
+          <mxGeometry x="730" y="820" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-29" value="CloudFormation and Infrastructure as Code" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="720" y="740" width="90" height="50" as="geometry" />
+          <mxGeometry x="730" y="770" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-31" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="720" y="670" width="90" height="30" as="geometry" />
+          <mxGeometry x="730" y="700" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-33" value="CI/CD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="720" y="640" width="90" height="30" as="geometry" />
+          <mxGeometry x="730" y="670" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-34" value="Data Mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="390" y="585" width="90" height="30" as="geometry" />
+          <mxGeometry x="405" y="640" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-36" value="NOSQL Modeling" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="390" y="555" width="90" height="30" as="geometry" />
+          <mxGeometry x="405" y="610" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-37" value="DynamoDB Optimization" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="390" y="525" width="90" height="30" as="geometry" />
+          <mxGeometry x="405" y="580" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-38" value="Load Balance/DNS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="10" y="435" width="90" height="30" as="geometry" />
+          <mxGeometry x="20" y="465" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-40" value="CI/CD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="10" y="405" width="90" height="30" as="geometry" />
+          <mxGeometry x="20" y="435" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-41" value="开发环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="720" y="820" width="90" height="30" as="geometry" />
+          <mxGeometry x="730" y="850" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-42" value="开发环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="10" y="465" width="90" height="30" as="geometry" />
+          <mxGeometry x="20" y="495" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-45" value="CI/CD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="505" y="720" width="90" height="30" as="geometry" />
+          <mxGeometry x="515" y="750" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-46" value="Amplify" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="505" y="690" width="90" height="30" as="geometry" />
+          <mxGeometry x="515" y="720" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-47" value="Cognito" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="650" y="330" width="90" height="30" as="geometry" />
+          <mxGeometry x="660" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-48" value="Email/Phone" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="650" y="300" width="90" height="30" as="geometry" />
+          <mxGeometry x="660" y="330" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-49" value="Facebook/Twitter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="650" y="270" width="90" height="30" as="geometry" />
+          <mxGeometry x="660" y="300" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-50" value="Wechat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="650" y="240" width="90" height="30" as="geometry" />
+          <mxGeometry x="660" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-51" value="Auth 2.0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="650" y="360" width="90" height="30" as="geometry" />
+          <mxGeometry x="660" y="390" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-52" value="Stripe" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="595" y="150" width="90" height="30" as="geometry" />
+          <mxGeometry x="605" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-53" value="Wechat/Alipay" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="595" y="120" width="90" height="30" as="geometry" />
+          <mxGeometry x="605" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-54" value="Flutter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="170" y="120" width="90" height="30" as="geometry" />
+          <mxGeometry x="180" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-55" value="Hybrid APP/Webview" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="170" y="90" width="90" height="30" as="geometry" />
+          <mxGeometry x="180" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-56" value="Jenkins" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="10" y="375" width="90" height="30" as="geometry" />
+          <mxGeometry x="20" y="405" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-57" value="iOS/Android开发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="170" y="150" width="90" height="30" as="geometry" />
+          <mxGeometry x="180" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-58" value="CDN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="505" y="660" width="90" height="30" as="geometry" />
+          <mxGeometry x="515" y="690" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-59" value="IAM Advance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="10" y="345" width="90" height="30" as="geometry" />
+          <mxGeometry x="20" y="375" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-60" value="AWS Monitor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="10" y="315" width="90" height="30" as="geometry" />
+          <mxGeometry x="20" y="345" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-61" value="SNS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="650" y="210" width="90" height="30" as="geometry" />
+          <mxGeometry x="660" y="240" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-62" value="开发环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="170" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="180" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-63" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="405" y="550" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
