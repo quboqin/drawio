@@ -1,17 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T12:18:49.783Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="4NFp1S5Mp1uKQSrCPA_f" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-05T02:04:47.444Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="v54wlJYXRnxNc_fil0bJ" version="14.2.9" type="github">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
-    <mxGraphModel dx="1186" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="trvjEH5c3W9_KcDelt6N-1" value="root" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="570" width="90" height="40" as="geometry" />
+          <mxGeometry x="290" y="780" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="trvjEH5c3W9_KcDelt6N-2" value="initialize a front-end project&lt;br style=&quot;font-size: 10px;&quot;&gt;based on VUE 3.0 and Element Plus" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="425" y="500" width="190" height="60" as="geometry" />
+        <mxCell id="trvjEH5c3W9_KcDelt6N-2" value="create a front-end project&lt;br style=&quot;font-size: 10px&quot;&gt;based on VUE 3.0 and Element Plus" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="295" y="650" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="trvjEH5c3W9_KcDelt6N-3" value="initialize a front-end project&lt;br style=&quot;font-size: 10px;&quot;&gt;based on VUE 3.0 and Element Plus" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="420" y="390" width="190" height="60" as="geometry" />
+        <mxCell id="trvjEH5c3W9_KcDelt6N-3" value="set up a serverless back-end service" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="580" y="540" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-4" value="&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-size: 10px ; background-color: rgb(255 , 255 , 255)&quot;&gt;build a good project setup and workflow for writing a Node api rest in TypeScript using KOA 2 and an SQL DB&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingTop=0;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="225" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-5" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-1" target="trvjEH5c3W9_KcDelt6N-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="560" as="sourcePoint" />
+            <mxPoint x="220" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-6" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-2" target="trvjEH5c3W9_KcDelt6N-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="560" as="sourcePoint" />
+            <mxPoint x="220" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-7" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-2" target="trvjEH5c3W9_KcDelt6N-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="560" as="sourcePoint" />
+            <mxPoint x="220" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-8" value="add auth to the VUE app" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-9" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-4" target="trvjEH5c3W9_KcDelt6N-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="540" as="sourcePoint" />
+            <mxPoint x="470" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-10" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-3" target="trvjEH5c3W9_KcDelt6N-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="480" as="sourcePoint" />
+            <mxPoint x="530" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-11" value="test payment using Stripe API" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-12" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-8" target="trvjEH5c3W9_KcDelt6N-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="600" as="sourcePoint" />
+            <mxPoint x="480" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-13" value="build an E-commercial web app" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="285" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-14" value="connect to a RDS or DynamoDB" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="390" y="450" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-15" value="" style="endArrow=classic;html=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-4" target="trvjEH5c3W9_KcDelt6N-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="450" as="sourcePoint" />
+            <mxPoint x="610" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-16" value="" style="endArrow=classic;html=1;fontSize=10;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-3" target="trvjEH5c3W9_KcDelt6N-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="450" as="sourcePoint" />
+            <mxPoint x="610" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-17" value="" style="endArrow=classic;html=1;fontSize=10;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-11" target="trvjEH5c3W9_KcDelt6N-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="450" as="sourcePoint" />
+            <mxPoint x="610" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
