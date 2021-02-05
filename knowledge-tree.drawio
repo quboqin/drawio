@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T05:53:42.084Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="FruBFcUeGsF03P6go-eZ" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-05T05:59:12.337Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Juo86p8pIB_RhMUG4HKo" version="14.2.9" type="github">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="1694" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -170,10 +170,10 @@
           <mxGeometry x="650" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-52" value="Stripe" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="595" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="595" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-53" value="Wechat/Alipay" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="595" y="150" width="90" height="30" as="geometry" />
+          <mxGeometry x="595" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-54" value="Flutter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="170" y="120" width="90" height="30" as="geometry" />
@@ -189,6 +189,15 @@
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-58" value="CDN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="505" y="660" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-59" value="IAM Advance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="10" y="345" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-60" value="AWS Monitor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="10" y="315" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="trvjEH5c3W9_KcDelt6N-61" value="SNS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
