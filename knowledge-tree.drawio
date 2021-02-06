@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-06T00:53:59.701Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="SYVeXdU6eLyH7EYodLor" version="14.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-06T00:57:57.692Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="4JsmWQix1a3E2Nfef-Rn" version="14.0.1" type="github" pages="2">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -347,6 +347,15 @@
         </mxCell>
         <mxCell id="RKzCFEAGCsUaCsWhUuP3-47" value="DDNS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RKzCFEAGCsUaCsWhUuP3-1">
           <mxGeometry x="620" y="460" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RKzCFEAGCsUaCsWhUuP3-48" value="Git" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RKzCFEAGCsUaCsWhUuP3-1">
+          <mxGeometry x="540" y="820" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKzCFEAGCsUaCsWhUuP3-49" value="Blog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RKzCFEAGCsUaCsWhUuP3-1">
+          <mxGeometry x="640" y="800" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RKzCFEAGCsUaCsWhUuP3-52" value="Cloud Drive" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RKzCFEAGCsUaCsWhUuP3-1">
+          <mxGeometry x="45" y="810" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
