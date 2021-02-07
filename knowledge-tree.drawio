@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T09:14:34.749Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Uz7FB8sQDm6st6lJT_9l" version="14.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-02-07T09:15:24.727Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="SfT9TaJS51v4zXChxBxb" version="14.2.9" type="github" pages="5">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="2544" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -447,7 +447,7 @@
         <mxCell id="1Qt-5GA1WeB0BRw6tiEd-4" value="Grammar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1Qt-5GA1WeB0BRw6tiEd-1">
           <mxGeometry x="365" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Qt-5GA1WeB0BRw6tiEd-5" value="口语" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1Qt-5GA1WeB0BRw6tiEd-1">
+        <mxCell id="1Qt-5GA1WeB0BRw6tiEd-5" value="Spoken English" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1Qt-5GA1WeB0BRw6tiEd-1">
           <mxGeometry x="550" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
