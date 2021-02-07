@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T05:11:34.821Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="2frvu9Hl3nsXrKzf-yVY" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-07T05:12:22.005Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="5gpGZ_YTWBDVziKpAf6Q" version="14.2.9" type="github" pages="2">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="906" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,19 +113,19 @@
           <mxGeometry x="190" y="730" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-27" value="Serverless Framework and AWS Lambda" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="730" y="730" width="90" height="40" as="geometry" />
+          <mxGeometry x="650" y="700" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-28" value="IAM Basic" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="730" y="820" width="90" height="30" as="geometry" />
+          <mxGeometry x="740" y="750" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-29" value="CloudFormation and Infrastructure as Code" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="730" y="770" width="90" height="50" as="geometry" />
+          <mxGeometry x="740" y="700" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-31" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="730" y="700" width="90" height="30" as="geometry" />
+          <mxGeometry x="650" y="670" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-33" value="CI/CD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="730" y="670" width="90" height="30" as="geometry" />
+          <mxGeometry x="740" y="670" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-34" value="Data Mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="405" y="630" width="90" height="30" as="geometry" />
@@ -143,7 +143,7 @@
           <mxGeometry x="20" y="435" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-41" value="开发环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="730" y="850" width="90" height="30" as="geometry" />
+          <mxGeometry x="650" y="750" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-42" value="开发环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="20" y="495" width="90" height="30" as="geometry" />
