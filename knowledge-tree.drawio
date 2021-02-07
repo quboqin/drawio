@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T09:20:44.761Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Si2boHkbugA-ljHHXe9u" version="14.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-02-07T09:27:20.157Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="RdzRUFoOjOTJ9nKsPIos" version="14.2.9" type="github" pages="5">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="2544" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -193,7 +193,7 @@
         <mxCell id="trvjEH5c3W9_KcDelt6N-60" value="AWS Cloud Watch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="20" y="405" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="trvjEH5c3W9_KcDelt6N-61" value="SNS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="trvjEH5c3W9_KcDelt6N-61" value="SQS/SNS/SES" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="730" y="260" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-62" value="开发环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
@@ -216,6 +216,12 @@
         </mxCell>
         <mxCell id="11Yn-uH5Hj7q3zhTw0fi-3" value="AWS Elastic Beanstalk&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="20" y="375" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11Yn-uH5Hj7q3zhTw0fi-4" value="&lt;span style=&quot;color: rgb(20, 23, 28); font-size: 14px;&quot;&gt;Kinesis Shards&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11Yn-uH5Hj7q3zhTw0fi-7" value="&lt;div class=&quot;section--title--eCwjX&quot; style=&quot;box-sizing: border-box; font-size: 15px; line-height: 1.43em; max-width: 100%; margin: 0px 24px 0px 0px; color: rgb(41, 48, 59);&quot;&gt;&lt;span style=&quot;box-sizing: border-box&quot;&gt;&lt;span style=&quot;box-sizing: border-box&quot;&gt;&lt;span style=&quot;box-sizing: border-box&quot;&gt;KMS &amp;amp; Encryption on AWS&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;section--section-chevron--tJ4mD udi udi-angle-down&quot; style=&quot;box-sizing: border-box; speak: none; line-height: 1; vertical-align: -8%; position: absolute; top: 13px; right: 16px; font-size: 24px; color: rgb(41, 48, 59);&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBackgroundColor=none;align=center;arcSize=10;spacingLeft=6;spacingRight=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
