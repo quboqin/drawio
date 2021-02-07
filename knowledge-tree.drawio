@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T05:20:12.238Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="dpqGlKMWB4p5a8jT_of6" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-07T05:20:40.208Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="7_KjHvaV6iqmriB6JItY" version="14.2.9" type="github" pages="2">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="2144" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -353,6 +353,9 @@
         </mxCell>
         <mxCell id="RKzCFEAGCsUaCsWhUuP3-62" value="Linux" style="rounded=1;whiteSpace=wrap;html=1;" parent="RKzCFEAGCsUaCsWhUuP3-1" vertex="1">
           <mxGeometry x="40" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_R5cgjeLFFeckZ4xg1Z-0" value="端口映射和Firewall" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RKzCFEAGCsUaCsWhUuP3-1">
+          <mxGeometry x="220" y="370" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
