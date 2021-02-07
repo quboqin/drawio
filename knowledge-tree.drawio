@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T09:17:10.244Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="yW52sLVkMvktRqOspDkX" version="14.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-02-07T09:20:44.761Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Si2boHkbugA-ljHHXe9u" version="14.2.9" type="github" pages="5">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="2544" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -137,7 +137,7 @@
           <mxGeometry x="20" y="465" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-40" value="CI/CD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="405" width="90" height="30" as="geometry" />
+          <mxGeometry x="-70" y="375" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-41" value="开发环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="650" y="750" width="90" height="30" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry x="90" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-56" value="Jenkins" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="435" width="90" height="30" as="geometry" />
+          <mxGeometry x="-70" y="405" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-57" value="iOS/Android开发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="180" y="180" width="90" height="30" as="geometry" />
@@ -210,6 +210,12 @@
             <mxPoint x="440" y="300" as="sourcePoint" />
             <mxPoint x="490" y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="11Yn-uH5Hj7q3zhTw0fi-1" value="Docker&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="435" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11Yn-uH5Hj7q3zhTw0fi-3" value="AWS Elastic Beanstalk&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="20" y="375" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
