@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T05:18:11.975Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="jsDVIoFc7QuXS--6LIXC" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-07T05:19:44.695Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="7yGB9o4NvkDqlfWnjL6v" version="14.2.9" type="github" pages="2">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
-    <mxGraphModel dx="1756" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2144" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,6 +201,15 @@
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-63" value="Redis and Other Data Cache" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="425" y="550" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_1i3eA6gOKRfohosvJtp-3" value="big data" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="140" y="30" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_1i3eA6gOKRfohosvJtp-4" value="" style="endArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trvjEH5c3W9_KcDelt6N-13" target="_1i3eA6gOKRfohosvJtp-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="300" as="sourcePoint" />
+            <mxPoint x="490" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
