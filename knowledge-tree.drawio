@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T05:15:51.597Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="7gukzDx9-sQGuw2CxCRf" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-07T05:18:11.975Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="jsDVIoFc7QuXS--6LIXC" version="14.2.9" type="github" pages="2">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="1756" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -152,31 +152,31 @@
           <mxGeometry x="190" y="700" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-47" value="Cognito" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="660" y="360" width="90" height="30" as="geometry" />
+          <mxGeometry x="640" y="320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-48" value="Email/Phone" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="660" y="330" width="90" height="30" as="geometry" />
+          <mxGeometry x="640" y="290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-49" value="Facebook/Twitter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="660" y="300" width="90" height="30" as="geometry" />
+          <mxGeometry x="730" y="290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-50" value="Wechat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="660" y="270" width="90" height="30" as="geometry" />
+          <mxGeometry x="640" y="260" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-51" value="Auth 2.0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="660" y="390" width="90" height="30" as="geometry" />
+          <mxGeometry x="730" y="320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-52" value="Stripe" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="605" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="590" y="165" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-53" value="Wechat/Alipay" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="605" y="150" width="90" height="30" as="geometry" />
+          <mxGeometry x="590" y="135" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-54" value="Flutter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="180" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-55" value="Hybrid APP/Webview" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="180" y="120" width="90" height="30" as="geometry" />
+          <mxGeometry x="90" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-56" value="Jenkins" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-70" y="435" width="90" height="30" as="geometry" />
@@ -194,10 +194,10 @@
           <mxGeometry x="20" y="405" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-61" value="SNS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="660" y="240" width="90" height="30" as="geometry" />
+          <mxGeometry x="730" y="260" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-62" value="开发环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="180" y="210" width="90" height="30" as="geometry" />
+          <mxGeometry x="90" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-63" value="Redis and Other Data Cache" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="425" y="550" width="90" height="30" as="geometry" />
