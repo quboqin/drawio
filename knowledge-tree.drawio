@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T09:12:39.243Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="cdJPsTjvX1gWXmwHCd_Y" version="14.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-02-07T09:13:04.117Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="JDCFWF4V3toGkybsuBf4" version="14.2.9" type="github" pages="5">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="2544" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -429,8 +429,17 @@
       <root>
         <mxCell id="1Qt-5GA1WeB0BRw6tiEd-0" />
         <mxCell id="1Qt-5GA1WeB0BRw6tiEd-1" parent="1Qt-5GA1WeB0BRw6tiEd-0" />
+        <mxCell id="1Qt-5GA1WeB0BRw6tiEd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1Qt-5GA1WeB0BRw6tiEd-1" source="1Qt-5GA1WeB0BRw6tiEd-2" target="1Qt-5GA1WeB0BRw6tiEd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Qt-5GA1WeB0BRw6tiEd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1Qt-5GA1WeB0BRw6tiEd-1" source="1Qt-5GA1WeB0BRw6tiEd-2" target="1Qt-5GA1WeB0BRw6tiEd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Qt-5GA1WeB0BRw6tiEd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1Qt-5GA1WeB0BRw6tiEd-1" source="1Qt-5GA1WeB0BRw6tiEd-2" target="1Qt-5GA1WeB0BRw6tiEd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1Qt-5GA1WeB0BRw6tiEd-2" value="English" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1Qt-5GA1WeB0BRw6tiEd-1">
-          <mxGeometry x="360" y="310" width="120" height="80" as="geometry" />
+          <mxGeometry x="365" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Qt-5GA1WeB0BRw6tiEd-3" value="美剧" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1Qt-5GA1WeB0BRw6tiEd-1">
           <mxGeometry x="200" y="210" width="120" height="80" as="geometry" />
