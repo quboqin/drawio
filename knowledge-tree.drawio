@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T05:25:40.400Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="vxVa1IKrti3Ncxa62X6C" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-07T05:26:08.837Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Kd_-M2xUfjIr1ZNlj5AC" version="14.2.9" type="github" pages="2">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="2144" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -309,9 +309,6 @@
         <mxCell id="RKzCFEAGCsUaCsWhUuP3-49" value="Blog" style="rounded=1;whiteSpace=wrap;html=1;" parent="RKzCFEAGCsUaCsWhUuP3-1" vertex="1">
           <mxGeometry x="640" y="800" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RKzCFEAGCsUaCsWhUuP3-52" value="Cloud Drive" style="ellipse;whiteSpace=wrap;html=1;" parent="RKzCFEAGCsUaCsWhUuP3-1" vertex="1">
-          <mxGeometry x="45" y="810" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="RKzCFEAGCsUaCsWhUuP3-53" value="Router" style="ellipse;whiteSpace=wrap;html=1;" parent="RKzCFEAGCsUaCsWhUuP3-1" vertex="1">
           <mxGeometry x="325" y="460" width="90" height="40" as="geometry" />
         </mxCell>
@@ -380,6 +377,9 @@
         </mxCell>
         <mxCell id="E_R5cgjeLFFeckZ4xg1Z-8" value="云同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RKzCFEAGCsUaCsWhUuP3-1">
           <mxGeometry x="150" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_R5cgjeLFFeckZ4xg1Z-9" value="SSH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RKzCFEAGCsUaCsWhUuP3-1">
+          <mxGeometry x="640" y="770" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
