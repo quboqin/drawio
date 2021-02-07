@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T05:07:11.017Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="7K48hPPSZ4D4V8wfdBjU" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-07T05:09:18.797Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="s-WZqBYKoxW-Rr4X1Hi3" version="14.2.9" type="github" pages="2">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="906" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -148,10 +148,10 @@
         <mxCell id="trvjEH5c3W9_KcDelt6N-42" value="开发环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="20" y="495" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="trvjEH5c3W9_KcDelt6N-45" value="CI/CD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="trvjEH5c3W9_KcDelt6N-45" value="Amplify and CI/CD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=6;spacingRight=6;" parent="1" vertex="1">
           <mxGeometry x="515" y="750" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="trvjEH5c3W9_KcDelt6N-46" value="Amplify" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="trvjEH5c3W9_KcDelt6N-46" value="VUERouter VUEX and SSR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="515" y="720" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-47" value="Cognito" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
