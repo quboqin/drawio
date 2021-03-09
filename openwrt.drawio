@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T02:03:41.889Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="YSwWxF-mGBJUdLJrOstz" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T02:14:05.338Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="PITGjQsXzC2tHdf9GtNr" version="14.4.2" type="github">
   <diagram id="Y5SZPlDqchn7_NLFBQAu" name="Page-1">
     <mxGraphModel dx="1186" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,6 +17,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YJtWl9CWhGTzo6qaQz2S-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="YJtWl9CWhGTzo6qaQz2S-2" target="YJtWl9CWhGTzo6qaQz2S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJtWl9CWhGTzo6qaQz2S-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=10;" edge="1" parent="1" source="YJtWl9CWhGTzo6qaQz2S-2" target="YJtWl9CWhGTzo6qaQz2S-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YJtWl9CWhGTzo6qaQz2S-2" value="OpenWRT" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
@@ -48,6 +51,18 @@
         </mxCell>
         <mxCell id="YJtWl9CWhGTzo6qaQz2S-9" value="&lt;h1 style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 16px; padding: 0px; font-size: 12px; color: rgb(79, 79, 79); line-height: 36px; overflow-wrap: break-word; background-color: rgb(255, 255, 255);&quot;&gt;LEAN LEDE&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="490" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJtWl9CWhGTzo6qaQz2S-18" value="LEAN@恩山&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;a href=&quot;https://www.right.com.cn/forum/thread-252647-1-1.html&quot; style=&quot;box-sizing: border-box ; outline: none ; margin: 0px ; padding: 0px ; cursor: pointer ; background-color: rgb(255 , 255 , 255) ; color: rgb(78 , 161 , 219) ; overflow-wrap: break-word ; font-size: 10px&quot;&gt;https://www.right.com.cn/forum/thread-252647-1-1.html&lt;/a&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;a href=&quot;https://github.com/coolsnowwolf/lede&quot; style=&quot;box-sizing: border-box ; outline: none ; margin: 0px ; padding: 0px ; cursor: pointer ; background-color: rgb(238 , 240 , 244) ; color: rgb(78 , 161 , 219) ; overflow-wrap: break-word ; font-size: 10px&quot;&gt;https://github.com/coolsnowwolf/lede&lt;/a&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;color: rgb(77 , 77 , 77) ; font-size: 10px ; background-color: rgb(255 , 255 , 255)&quot;&gt;比较接近原生 OpenWRT(没有做过度的定制化), 稳定&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box ; outline: 0px ; overflow-wrap: break-word ; color: rgb(77 , 77 , 77) ; font-size: 10px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(77 , 77 , 77) ; font-size: 10px ; background-color: rgb(255 , 255 , 255)&quot;&gt;另外有丰富的系统插件(应该能满足绝大数人的需求)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="630" y="540" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YJtWl9CWhGTzo6qaQz2S-20" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;软件中心&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="170" y="550" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YJtWl9CWhGTzo6qaQz2S-21" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-size: 10px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;OpenWRT社区创始人之一LinTel带团队维护&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;17还是18年开始就停止开发&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJtWl9CWhGTzo6qaQz2S-22" value="&lt;meta charset=&quot;utf-8&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;h1 style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 16px; padding: 0px; font-weight: 700; font-family: &amp;quot;pingfang sc&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simhei, arial, simsun; font-size: 10px; color: rgb(79, 79, 79); line-height: 36px; overflow-wrap: break-word; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;商业版&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="720" y="260" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
