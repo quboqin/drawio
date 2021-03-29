@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T06:59:54.014Z" agent="5.0 (iPad; CPU OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1" etag="1yK0njV3iMkCGEjo42cN" version="14.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-29T07:01:10.122Z" agent="5.0 (iPad; CPU OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1" etag="HNQTMMkHrZFvOMkownik" version="14.5.3" type="github" pages="3">
   <diagram id="Y5SZPlDqchn7_NLFBQAu" name="Page-1">
     <mxGraphModel dx="827" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -208,6 +208,15 @@
         </mxCell>
         <mxCell id="md82H76Li7lrkg1Ny4Yb-21" value="其他设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="md82H76Li7lrkg1Ny4Yb-1">
           <mxGeometry x="710" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="md82H76Li7lrkg1Ny4Yb-23" value="netflix" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="md82H76Li7lrkg1Ny4Yb-1">
+          <mxGeometry x="160" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="md82H76Li7lrkg1Ny4Yb-24" value="youtube" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="md82H76Li7lrkg1Ny4Yb-1">
+          <mxGeometry x="480" y="221" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="md82H76Li7lrkg1Ny4Yb-25" value="google" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="md82H76Li7lrkg1Ny4Yb-1">
+          <mxGeometry x="370" y="150" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
