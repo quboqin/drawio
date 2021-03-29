@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T01:54:22.162Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="RGG3ncNjK1bLQepVjsGK" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T06:40:24.456Z" agent="5.0 (iPad; CPU OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1" etag="ynOXOobMoRijSn92cfFk" version="14.5.3" type="github" pages="2">
   <diagram id="Y5SZPlDqchn7_NLFBQAu" name="Page-1">
-    <mxGraphModel dx="812" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,8 +82,46 @@
         <mxCell id="YJtWl9CWhGTzo6qaQz2S-30" value="&lt;a href=&quot;https://mianao.info/go/aHR0cHM6Ly9naXRodWIuY29tL0xpZW5vbC9vcGVud3J0&quot; target=&quot;_blank&quot; style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(80 , 81 , 96) ; outline: 0px ; border-bottom: 1px solid rgb(153 , 153 , 153) ; overflow-wrap: break-word ; font-size: 12px&quot;&gt;https://github.com/Lienol/openwrt&lt;/a&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(85 , 85 , 85) ; font-size: 12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;两者主要区别在于Lienol带passwall插件, lean带ssr-plus&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="65" y="650" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="256RGV9ZxN6VKdwUxB9K-1" value="&lt;span style=&quot;color: rgb(77 , 77 , 77) ; font-size: 10px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;2002年&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="256RGV9ZxN6VKdwUxB9K-1" value="&lt;span style=&quot;color: rgb(77 , 77 , 77) ; font-size: 10px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;2002年&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="345" y="130" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FY3YMMtpTpOUnZhZntdV" name="Page-2">
+    <mxGraphModel dx="767" dy="1159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="DDyIYryqQJMOIx_q86ty-0" />
+        <mxCell id="DDyIYryqQJMOIx_q86ty-1" parent="DDyIYryqQJMOIx_q86ty-0" />
+        <mxCell id="DDyIYryqQJMOIx_q86ty-2" value="小米&lt;br&gt;AX3600" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DDyIYryqQJMOIx_q86ty-1">
+          <mxGeometry x="260" y="210" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDyIYryqQJMOIx_q86ty-3" value="3865U" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DDyIYryqQJMOIx_q86ty-1">
+          <mxGeometry x="490" y="210" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDyIYryqQJMOIx_q86ty-4" value="小米&lt;br&gt;AX1800" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DDyIYryqQJMOIx_q86ty-1">
+          <mxGeometry x="330" y="460" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDyIYryqQJMOIx_q86ty-5" value="电信&lt;br&gt;光猫" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DDyIYryqQJMOIx_q86ty-1">
+          <mxGeometry x="90" y="310" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDyIYryqQJMOIx_q86ty-6" value="NAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DDyIYryqQJMOIx_q86ty-1">
+          <mxGeometry x="500" y="70" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDyIYryqQJMOIx_q86ty-7" value="小米&lt;br&gt;AX3600" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DDyIYryqQJMOIx_q86ty-1">
+          <mxGeometry x="590" y="760" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDyIYryqQJMOIx_q86ty-8" value="Newwifi&lt;br&gt;D2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DDyIYryqQJMOIx_q86ty-1">
+          <mxGeometry x="410" y="780" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDyIYryqQJMOIx_q86ty-9" value="小米&lt;br&gt;AX1800" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DDyIYryqQJMOIx_q86ty-1">
+          <mxGeometry x="410" y="970" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDyIYryqQJMOIx_q86ty-10" value="电信&lt;br&gt;光猫" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DDyIYryqQJMOIx_q86ty-1">
+          <mxGeometry x="170" y="820" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DDyIYryqQJMOIx_q86ty-11" value="NAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DDyIYryqQJMOIx_q86ty-1">
+          <mxGeometry x="580" y="580" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
