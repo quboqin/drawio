@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T03:12:45.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="5fjByr0H_zZq0z0AIOWe" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T03:13:19.071Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="i6u-w9XYIhCtC7rIH9hV" version="14.5.10" type="github">
   <diagram id="KYHajy9hAzlmg0D7gsDp" name="Page-1">
     <mxGraphModel dx="2036" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         </mxCell>
         <mxCell id="gsVhObM5ISxaNvMVrzlj-27" value="5. notify CodeDeploy Agent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=#FFE6CC;" vertex="1" connectable="0" parent="gsVhObM5ISxaNvMVrzlj-26">
           <mxGeometry x="0.3778" y="30" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="5" y="65" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsVhObM5ISxaNvMVrzlj-7" value="production&lt;br&gt;&amp;lt;DG&amp;gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=9;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;" vertex="1" parent="1">
@@ -114,11 +114,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gsVhObM5ISxaNvMVrzlj-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QSUdDy8CgD-3s1N1Uw83-1" target="QSUdDy8CgD-3s1N1Uw83-1">
+        <mxCell id="gsVhObM5ISxaNvMVrzlj-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QSUdDy8CgD-3s1N1Uw83-1" target="QSUdDy8CgD-3s1N1Uw83-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="682" y="420" />
-              <mxPoint x="604" y="420" />
+              <mxPoint x="682" y="390" />
+              <mxPoint x="604" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
