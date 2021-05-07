@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T13:26:32.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="fsw1y20a5K_U4powTumM" version="14.5.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-07T13:35:54.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="zrrnT0AbFA9BSDGryJ_0" version="14.5.10" type="github" pages="2">
   <diagram id="KYHajy9hAzlmg0D7gsDp" name="Page-1">
     <mxGraphModel dx="1722" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -148,7 +148,7 @@
           <mxGeometry x="110" y="330" width="350" height="260" as="geometry" />
         </mxCell>
         <mxCell id="OsAmNSZrjZ2WwmUFlbVk-4" value="online&lt;br&gt;&amp;lt;env&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=3;" vertex="1" parent="OsAmNSZrjZ2WwmUFlbVk-1">
-          <mxGeometry x="520" y="330" width="190" height="310" as="geometry" />
+          <mxGeometry x="520" y="330" width="350" height="310" as="geometry" />
         </mxCell>
         <mxCell id="OsAmNSZrjZ2WwmUFlbVk-8" value="vue3typescript360b0231&lt;br&gt;&amp;lt;Auth&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="OsAmNSZrjZ2WwmUFlbVk-1">
           <mxGeometry x="130" y="380" width="160" height="30" as="geometry" />
@@ -164,6 +164,21 @@
         </mxCell>
         <mxCell id="OsAmNSZrjZ2WwmUFlbVk-12" value="vue3typescript360b0231PreSignup&lt;br&gt;&amp;lt;Function&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="OsAmNSZrjZ2WwmUFlbVk-1">
           <mxGeometry x="130" y="540" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OsAmNSZrjZ2WwmUFlbVk-13" value="vue3typescript360b0231&lt;br&gt;&amp;lt;Auth&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="OsAmNSZrjZ2WwmUFlbVk-1">
+          <mxGeometry x="540" y="380" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OsAmNSZrjZ2WwmUFlbVk-14" value="vue3typescript360b0231DefineAuthChallenge&lt;br&gt;&amp;lt;Function&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="OsAmNSZrjZ2WwmUFlbVk-1">
+          <mxGeometry x="540" y="420" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OsAmNSZrjZ2WwmUFlbVk-15" value="vue3typescript360b0231CreateAuthChallenge&lt;br&gt;&amp;lt;Function&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="OsAmNSZrjZ2WwmUFlbVk-1">
+          <mxGeometry x="540" y="460" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OsAmNSZrjZ2WwmUFlbVk-16" value="vue3typescript360b0231VerifyAuthChallengeResponse&lt;br&gt;&amp;lt;Function&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="OsAmNSZrjZ2WwmUFlbVk-1">
+          <mxGeometry x="540" y="500" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OsAmNSZrjZ2WwmUFlbVk-17" value="vue3typescript360b0231PreSignup&lt;br&gt;&amp;lt;Function&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="OsAmNSZrjZ2WwmUFlbVk-1">
+          <mxGeometry x="540" y="540" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
