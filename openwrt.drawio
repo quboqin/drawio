@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T06:37:45.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="E9x3gYPwgqi6R0foC3Ad" version="14.6.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-18T06:38:34.350Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="XWhCvuU7594Zw_SiPhid" version="14.6.13" type="github" pages="3">
   <diagram id="Y5SZPlDqchn7_NLFBQAu" name="Page-1">
     <mxGraphModel dx="1186" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,7 +96,12 @@
         <mxCell id="DDyIYryqQJMOIx_q86ty-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="DDyIYryqQJMOIx_q86ty-1" source="DDyIYryqQJMOIx_q86ty-3" target="DDyIYryqQJMOIx_q86ty-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDyIYryqQJMOIx_q86ty-2" value="3865U" style="rounded=1;whiteSpace=wrap;html=1;" parent="DDyIYryqQJMOIx_q86ty-1" vertex="1">
+        <mxCell id="unaVUEp-DNzoD0c3RHmQ-0" value="mesh" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DDyIYryqQJMOIx_q86ty-15">
+          <mxGeometry x="0.04" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDyIYryqQJMOIx_q86ty-2" value="3865U&lt;br&gt;&amp;lt;OpenWRT&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="DDyIYryqQJMOIx_q86ty-1" vertex="1">
           <mxGeometry x="270" y="210" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DDyIYryqQJMOIx_q86ty-3" value="&lt;span&gt;小米&lt;/span&gt;&lt;br&gt;&lt;span&gt;AX3600&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="DDyIYryqQJMOIx_q86ty-1" vertex="1">
@@ -121,6 +126,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="370" as="sourcePoint" />
             <mxPoint x="490" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="unaVUEp-DNzoD0c3RHmQ-1" value="有线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DDyIYryqQJMOIx_q86ty-14">
+          <mxGeometry x="0.2889" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5LiY7eQM3TDVQPlOkRNH-0" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="DDyIYryqQJMOIx_q86ty-1" source="DDyIYryqQJMOIx_q86ty-2" target="DDyIYryqQJMOIx_q86ty-3">
