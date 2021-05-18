@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T06:23:47.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4aDkZhToonUOycQ7CvKC" version="14.6.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-18T06:24:16.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="wXgQxUhzVldrMDPgMpsW" version="14.6.11" type="github" pages="5">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="1186" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -172,10 +172,10 @@
         <mxCell id="trvjEH5c3W9_KcDelt6N-53" value="wechat/alipay" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="345" y="245" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="trvjEH5c3W9_KcDelt6N-54" value="Flutter/iOS/Android" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+        <mxCell id="trvjEH5c3W9_KcDelt6N-54" value="flutter/iOS/android" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="170" y="140" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="trvjEH5c3W9_KcDelt6N-55" value="Hybrid APP/Webview" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="trvjEH5c3W9_KcDelt6N-55" value="hybrid APP/webview" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="80" y="140" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-58" value="CDN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
