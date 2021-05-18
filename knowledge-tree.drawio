@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T06:21:29.830Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="9_FigMDBRpv-IMI0zqd0" version="14.6.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-18T06:23:15.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Olsv53ITtFgIUi19_PES" version="14.6.11" type="github" pages="5">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="1186" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
             <mxPoint x="490" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="trvjEH5c3W9_KcDelt6N-13" value="build an e-commercial web app" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;" parent="1" vertex="1">
+        <mxCell id="trvjEH5c3W9_KcDelt6N-13" value="build an e-commercial web app[mall]" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;" parent="1" vertex="1">
           <mxGeometry x="295" y="120" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="trvjEH5c3W9_KcDelt6N-14" value="connect to a RDS or dynamoDB" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;" parent="1" vertex="1">
@@ -212,13 +212,13 @@
           <mxGeometry x="10" y="30" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="11Yn-uH5Hj7q3zhTw0fi-7" value="&lt;div class=&quot;section--title--eCwjX&quot; style=&quot;box-sizing: border-box ; font-size: 10px ; line-height: 1.43em ; max-width: 100% ; margin: 0px 24px 0px 0px ; color: rgb(41 , 48 , 59)&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-size: 10px&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-size: 10px&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-size: 10px&quot;&gt;KMS &amp;amp; encryption on AWS&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;section--section-chevron--tJ4mD udi udi-angle-down&quot; style=&quot;box-sizing: border-box ; speak: none ; line-height: 1 ; vertical-align: -8% ; position: absolute ; top: 13px ; right: 16px ; font-size: 10px ; color: rgb(41 , 48 , 59)&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBackgroundColor=none;align=right;arcSize=10;spacingLeft=6;spacingRight=0;verticalAlign=middle;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="650" y="245" width="90" height="50" as="geometry" />
+          <mxGeometry x="650" y="260" width="180" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BQ2nukIeWiUkCeCHfu1Q-2" value="&lt;span style=&quot;color: rgb(20 , 23 , 28) ; font-size: 10px&quot;&gt;Flink/ES/Doris&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBackgroundColor=none;align=center;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="10" y="60" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BQ2nukIeWiUkCeCHfu1Q-3" value="AI" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
-          <mxGeometry x="510" y="70" width="140" height="70" as="geometry" />
+        <mxCell id="BQ2nukIeWiUkCeCHfu1Q-3" value="AI[黑桃大师, sabaki go]" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="511" y="70" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
