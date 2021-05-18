@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T07:45:38.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="Dmp948w_5odZrKANja44" version="14.6.13" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-18T07:49:56.334Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="0vRDgiFioiUgqEIUYBY5" version="14.6.13" type="github" pages="6">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="1085" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -472,7 +472,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lsNMmHH2AFKwgYRlle2Q" name="Page-6">
-    <mxGraphModel dx="868" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GMjR9o0lsqjP72r-5HPS-0" />
         <mxCell id="GMjR9o0lsqjP72r-5HPS-1" parent="GMjR9o0lsqjP72r-5HPS-0" />
@@ -520,6 +520,12 @@
         </mxCell>
         <mxCell id="GMjR9o0lsqjP72r-5HPS-17" value="Me" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="GMjR9o0lsqjP72r-5HPS-1">
           <mxGeometry x="670" y="520" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8999GuD8IlfuVJlxt1R-0" value="资料和文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GMjR9o0lsqjP72r-5HPS-1">
+          <mxGeometry x="50" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8999GuD8IlfuVJlxt1R-1" value="视频和照片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GMjR9o0lsqjP72r-5HPS-1">
+          <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
