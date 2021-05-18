@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T06:28:18.099Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="aLRHPdx8hsjIOYBv74ew" version="14.6.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-18T06:28:39.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="vKVt_s5J5PwCpPvGg2Yu" version="14.6.11" type="github" pages="5">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="1186" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -211,13 +211,13 @@
         <mxCell id="11Yn-uH5Hj7q3zhTw0fi-3" value="AWS elastic beanstalk&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="110" y="300" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="11Yn-uH5Hj7q3zhTw0fi-4" value="&lt;span style=&quot;color: rgb(20, 23, 28); font-size: 10px;&quot;&gt;Kinesis Shards&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBackgroundColor=none;align=center;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="11Yn-uH5Hj7q3zhTw0fi-4" value="&lt;span style=&quot;color: rgb(20 , 23 , 28) ; font-size: 10px&quot;&gt;kinesis shards&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBackgroundColor=none;align=center;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="10" y="30" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="11Yn-uH5Hj7q3zhTw0fi-7" value="&lt;div class=&quot;section--title--eCwjX&quot; style=&quot;box-sizing: border-box ; font-size: 10px ; line-height: 1.43em ; max-width: 100% ; margin: 0px 24px 0px 0px ; color: rgb(41 , 48 , 59)&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-size: 10px&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-size: 10px&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-size: 10px&quot;&gt;KMS &amp;amp; encryption on AWS&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;section--section-chevron--tJ4mD udi udi-angle-down&quot; style=&quot;box-sizing: border-box ; speak: none ; line-height: 1 ; vertical-align: -8% ; position: absolute ; top: 13px ; right: 16px ; font-size: 10px ; color: rgb(41 , 48 , 59)&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBackgroundColor=none;align=right;arcSize=10;spacingLeft=6;spacingRight=0;verticalAlign=middle;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="650" y="260" width="180" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BQ2nukIeWiUkCeCHfu1Q-2" value="&lt;span style=&quot;color: rgb(20 , 23 , 28) ; font-size: 10px&quot;&gt;Flink/ES/Doris&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBackgroundColor=none;align=center;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="BQ2nukIeWiUkCeCHfu1Q-2" value="&lt;span style=&quot;color: rgb(20 , 23 , 28) ; font-size: 10px&quot;&gt;flink/ES/doris&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBackgroundColor=none;align=center;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="10" y="60" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQ2nukIeWiUkCeCHfu1Q-3" value="AI[黑桃大师, sabaki go]" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;spacingLeft=10;spacingRight=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
