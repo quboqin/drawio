@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T05:39:17.967Z" agent="5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/90.0.4430.216 Mobile/15E148 Safari/604.1" etag="5vZ3mmIe5wJjPsakKnIv" version="14.7.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-04T05:40:51.035Z" agent="5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/90.0.4430.216 Mobile/15E148 Safari/604.1" etag="t-7Fka4gmfKoYH3RvmeG" version="14.7.3" type="github" pages="6">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="696" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -584,7 +584,13 @@
           <mxGeometry x="490" y="790" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nihi6xQN_tydVDj5pO2n-18" value="个人或家庭资料" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="GMjR9o0lsqjP72r-5HPS-1">
-          <mxGeometry x="30" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="35" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nihi6xQN_tydVDj5pO2n-19" value="设备资料" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="GMjR9o0lsqjP72r-5HPS-1">
+          <mxGeometry x="110" y="920" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nihi6xQN_tydVDj5pO2n-20" value="idea" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="GMjR9o0lsqjP72r-5HPS-1">
+          <mxGeometry x="660" y="90" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
