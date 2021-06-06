@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T03:46:51.909Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="FaU1gsVohtqAzSQFeZLv" version="14.6.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-06T03:48:06.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="fCui35N7WNGuaDEKPudY" version="14.6.9" type="github" pages="7">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1097,7 +1097,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-308" value="个人材料" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
-          <mxGeometry y="1096.25" width="460" height="293.75" as="geometry" />
+          <mxGeometry y="1096.25" width="630" height="293.75" as="geometry" />
         </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-349" value="" style="group" vertex="1" connectable="0" parent="K5GvEL43jEEJ1XbAceEI-1">
           <mxGeometry x="10" y="1130" width="420" height="223.75" as="geometry" />
@@ -1140,6 +1140,15 @@
         </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-347" value="TodoList" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=8;fillColor=#FFFFFF;align=center;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-349">
           <mxGeometry x="250" y="173.75" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NpueWo2nHzre_yyUFuHP-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;startFill=0;" edge="1" parent="K5GvEL43jEEJ1XbAceEI-1" source="NpueWo2nHzre_yyUFuHP-0" target="NpueWo2nHzre_yyUFuHP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NpueWo2nHzre_yyUFuHP-0" value="设备材料" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=8;fillColor=#FFFFFF;align=center;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
+          <mxGeometry x="490" y="1230" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NpueWo2nHzre_yyUFuHP-1" value="table@notion" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=7;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
+          <mxGeometry x="510" y="1140" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
