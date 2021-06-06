@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T03:59:07.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="1c0Rxrt3Wk_YoH6FkXob" version="14.6.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-06T04:00:28.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="UQ2A1cAycWACrFmniAVd" version="14.6.9" type="github" pages="6">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -472,7 +472,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n83PJ1RXZ6pkZrWNMcbg" name="资料架构">
-    <mxGraphModel dx="1330" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3281" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-0" />
         <mxCell id="K5GvEL43jEEJ1XbAceEI-1" parent="K5GvEL43jEEJ1XbAceEI-0" />
@@ -908,7 +908,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-314" value="临时的idea" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=8;fillColor=#FFFFFF;align=center;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-349">
-          <mxGeometry x="330" y="100" width="90" height="50" as="geometry" />
+          <mxGeometry x="330" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-342" value="Goodnote" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=7;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-349">
           <mxGeometry x="350" y="10" width="50" height="40" as="geometry" />
@@ -1022,6 +1022,18 @@
         </mxCell>
         <mxCell id="2O8XW9yc0jbE6cfLfqUz-68" value="excel@bitbucket" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=6;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
           <mxGeometry x="380" y="390" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2O8XW9yc0jbE6cfLfqUz-71" value="draw.io" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=7;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
+          <mxGeometry x="970" y="299.75" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2O8XW9yc0jbE6cfLfqUz-72" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;startFill=0;" edge="1" parent="K5GvEL43jEEJ1XbAceEI-1" source="K5GvEL43jEEJ1XbAceEI-314" target="2O8XW9yc0jbE6cfLfqUz-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2O8XW9yc0jbE6cfLfqUz-73" value="xmind@icloud" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=7;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
+          <mxGeometry x="950" y="473.5" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2O8XW9yc0jbE6cfLfqUz-74" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;startArrow=none;startFill=0;" edge="1" parent="K5GvEL43jEEJ1XbAceEI-1" source="K5GvEL43jEEJ1XbAceEI-314" target="2O8XW9yc0jbE6cfLfqUz-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
