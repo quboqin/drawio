@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T04:00:28.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="UQ2A1cAycWACrFmniAVd" version="14.6.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-06T04:01:06.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="LcCQeeP_1pDF4zC2Dy7G" version="14.6.9" type="github" pages="6">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -893,7 +893,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-308" value="个人材料" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
-          <mxGeometry x="550" y="256" width="630" height="293.75" as="geometry" />
+          <mxGeometry x="550" y="256" width="720" height="293.75" as="geometry" />
         </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-349" value="" style="group" vertex="1" connectable="0" parent="K5GvEL43jEEJ1XbAceEI-1">
           <mxGeometry x="560" y="289.75" width="420" height="223.75" as="geometry" />
@@ -932,6 +932,9 @@
           <mxGeometry x="250" y="173.75" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NpueWo2nHzre_yyUFuHP-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;startFill=0;" edge="1" parent="K5GvEL43jEEJ1XbAceEI-1" source="NpueWo2nHzre_yyUFuHP-0" target="NpueWo2nHzre_yyUFuHP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2O8XW9yc0jbE6cfLfqUz-76" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;startFill=0;" edge="1" parent="K5GvEL43jEEJ1XbAceEI-1" source="NpueWo2nHzre_yyUFuHP-0" target="2O8XW9yc0jbE6cfLfqUz-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpueWo2nHzre_yyUFuHP-0" value="设备材料" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=8;fillColor=#FFFFFF;align=center;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
@@ -1034,6 +1037,9 @@
         </mxCell>
         <mxCell id="2O8XW9yc0jbE6cfLfqUz-74" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;startArrow=none;startFill=0;" edge="1" parent="K5GvEL43jEEJ1XbAceEI-1" source="K5GvEL43jEEJ1XbAceEI-314" target="2O8XW9yc0jbE6cfLfqUz-73">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2O8XW9yc0jbE6cfLfqUz-75" value="Apple Notes" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;align=center;fillColor=#FFFFFF;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
+          <mxGeometry x="1140" y="299.75" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
