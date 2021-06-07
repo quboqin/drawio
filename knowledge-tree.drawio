@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T05:36:03.579Z" agent="5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1" etag="Apj3sqSldfx2A2jdACeA" version="14.7.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-07T05:51:14.138Z" agent="5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1" etag="rYfLxzYc3DaL75un_Vjy" version="14.7.3" type="github" pages="6">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="696" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -461,7 +461,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Fchj5N7W8nor9-c7BOnU" name="finance">
-    <mxGraphModel dx="868" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1547" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="9At-Pl-2-rz9X8VlgB8b-0" />
         <mxCell id="9At-Pl-2-rz9X8VlgB8b-1" parent="9At-Pl-2-rz9X8VlgB8b-0" />
@@ -472,7 +472,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n83PJ1RXZ6pkZrWNMcbg" name="资料架构">
-    <mxGraphModel dx="2115" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-0" />
         <mxCell id="K5GvEL43jEEJ1XbAceEI-1" parent="K5GvEL43jEEJ1XbAceEI-0" />
@@ -772,7 +772,7 @@
             <mxPoint x="140" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K5GvEL43jEEJ1XbAceEI-162" value="text@Bitbucket" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=6;" parent="K5GvEL43jEEJ1XbAceEI-166" vertex="1">
+        <mxCell id="K5GvEL43jEEJ1XbAceEI-162" value="table@notion" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=6;" parent="K5GvEL43jEEJ1XbAceEI-166" vertex="1">
           <mxGeometry x="70" y="30" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2O8XW9yc0jbE6cfLfqUz-69" value="游戏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;align=center;" parent="K5GvEL43jEEJ1XbAceEI-166" vertex="1">
@@ -893,15 +893,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-308" value="个人材料" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;verticalAlign=top;spacingLeft=5;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
-          <mxGeometry x="650" y="256" width="930" height="293.75" as="geometry" />
+          <mxGeometry x="680" y="236.25" width="930" height="293.75" as="geometry" />
         </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-349" value="" style="group" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1" connectable="0">
           <mxGeometry x="700" y="289.75" width="420" height="223.75" as="geometry" />
         </mxCell>
+        <mxCell id="gNyfLatzIgWpcF4g8Lac-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K5GvEL43jEEJ1XbAceEI-349" source="K5GvEL43jEEJ1XbAceEI-309" target="Ipub6C_laqYzJNqKybSN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNyfLatzIgWpcF4g8Lac-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K5GvEL43jEEJ1XbAceEI-349" source="K5GvEL43jEEJ1XbAceEI-309" target="Ipub6C_laqYzJNqKybSN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNyfLatzIgWpcF4g8Lac-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K5GvEL43jEEJ1XbAceEI-349" source="K5GvEL43jEEJ1XbAceEI-309" target="Ipub6C_laqYzJNqKybSN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-309" value="个人+家庭成员 个人信息 材料" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=8;fillColor=#FFFFFF;align=center;" parent="K5GvEL43jEEJ1XbAceEI-349" vertex="1">
           <mxGeometry x="110" y="86.88" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="K5GvEL43jEEJ1XbAceEI-311" value="Apple Notes" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;align=center;fillColor=#FFFFFF;" parent="K5GvEL43jEEJ1XbAceEI-349" vertex="1">
+        <mxCell id="K5GvEL43jEEJ1XbAceEI-311" value="Notion" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;align=center;fillColor=#FFFFFF;" parent="K5GvEL43jEEJ1XbAceEI-349" vertex="1">
           <mxGeometry x="200" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-313" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;startFill=0;" parent="K5GvEL43jEEJ1XbAceEI-349" source="K5GvEL43jEEJ1XbAceEI-309" target="K5GvEL43jEEJ1XbAceEI-311" edge="1">
@@ -943,13 +952,10 @@
         <mxCell id="NpueWo2nHzre_yyUFuHP-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;startFill=0;" parent="K5GvEL43jEEJ1XbAceEI-1" source="NpueWo2nHzre_yyUFuHP-0" target="NpueWo2nHzre_yyUFuHP-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2O8XW9yc0jbE6cfLfqUz-76" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;startFill=0;" parent="K5GvEL43jEEJ1XbAceEI-1" source="NpueWo2nHzre_yyUFuHP-0" target="2O8XW9yc0jbE6cfLfqUz-75" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NpueWo2nHzre_yyUFuHP-0" value="设备材料" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=8;fillColor=#FFFFFF;align=center;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="1330" y="389.75" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NpueWo2nHzre_yyUFuHP-1" value="excel@bitbucket" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=7;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
+        <mxCell id="NpueWo2nHzre_yyUFuHP-1" value="table@notion" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=7;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="1350" y="299.75" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2O8XW9yc0jbE6cfLfqUz-1" value="" style="group" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1" connectable="0">
@@ -1023,7 +1029,7 @@
         <mxCell id="K5GvEL43jEEJ1XbAceEI-241" value="草稿" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" parent="K5GvEL43jEEJ1XbAceEI-267" vertex="1">
           <mxGeometry x="-200" y="55" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K5GvEL43jEEJ1XbAceEI-265" value="One Drive" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=7;" parent="K5GvEL43jEEJ1XbAceEI-267" vertex="1">
+        <mxCell id="K5GvEL43jEEJ1XbAceEI-265" value="Evernote" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=7;" parent="K5GvEL43jEEJ1XbAceEI-267" vertex="1">
           <mxGeometry x="80" y="200" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-266" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;startFill=0;" parent="K5GvEL43jEEJ1XbAceEI-267" source="K5GvEL43jEEJ1XbAceEI-261" target="K5GvEL43jEEJ1XbAceEI-265" edge="1">
@@ -1032,7 +1038,7 @@
         <mxCell id="2O8XW9yc0jbE6cfLfqUz-67" value="财务" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;verticalAlign=top;spacingLeft=5;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="290" y="350" width="350" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="2O8XW9yc0jbE6cfLfqUz-68" value="excel@bitbucket" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=6;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
+        <mxCell id="2O8XW9yc0jbE6cfLfqUz-68" value="table@notion" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=6;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="330" y="390" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2O8XW9yc0jbE6cfLfqUz-71" value="draw.io" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=7;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
@@ -1046,9 +1052,6 @@
         </mxCell>
         <mxCell id="2O8XW9yc0jbE6cfLfqUz-74" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;startArrow=none;startFill=0;" parent="K5GvEL43jEEJ1XbAceEI-1" source="K5GvEL43jEEJ1XbAceEI-314" target="2O8XW9yc0jbE6cfLfqUz-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2O8XW9yc0jbE6cfLfqUz-75" value="Apple Notes" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;align=center;fillColor=#FFFFFF;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
-          <mxGeometry x="1430" y="299.75" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2O8XW9yc0jbE6cfLfqUz-77" value="存款/固定类收益" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="310" y="450" width="60" height="30" as="geometry" />
