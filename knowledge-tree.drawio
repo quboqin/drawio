@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T05:51:14.138Z" agent="5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1" etag="rYfLxzYc3DaL75un_Vjy" version="14.7.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-09T01:18:52.893Z" agent="5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1" etag="4EpBmq7P68MaaM6J_ONb" version="14.7.3" type="github" pages="6">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="696" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -432,7 +432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WoifUctvmzADrjOTcLEK" name="photographer">
-    <mxGraphModel dx="696" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="696" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SCCjMzMr1sWDHlLzo_Q3-0" />
         <mxCell id="SCCjMzMr1sWDHlLzo_Q3-1" parent="SCCjMzMr1sWDHlLzo_Q3-0" />
@@ -472,7 +472,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n83PJ1RXZ6pkZrWNMcbg" name="资料架构">
-    <mxGraphModel dx="2071" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1568" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-0" />
         <mxCell id="K5GvEL43jEEJ1XbAceEI-1" parent="K5GvEL43jEEJ1XbAceEI-0" />
@@ -1029,7 +1029,7 @@
         <mxCell id="K5GvEL43jEEJ1XbAceEI-241" value="草稿" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" parent="K5GvEL43jEEJ1XbAceEI-267" vertex="1">
           <mxGeometry x="-200" y="55" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K5GvEL43jEEJ1XbAceEI-265" value="Evernote" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=7;" parent="K5GvEL43jEEJ1XbAceEI-267" vertex="1">
+        <mxCell id="K5GvEL43jEEJ1XbAceEI-265" value="Notion" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=7;" parent="K5GvEL43jEEJ1XbAceEI-267" vertex="1">
           <mxGeometry x="80" y="200" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K5GvEL43jEEJ1XbAceEI-266" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;startFill=0;" parent="K5GvEL43jEEJ1XbAceEI-267" source="K5GvEL43jEEJ1XbAceEI-261" target="K5GvEL43jEEJ1XbAceEI-265" edge="1">
@@ -1082,6 +1082,12 @@
         </mxCell>
         <mxCell id="Ipub6C_laqYzJNqKybSN-1" value="生活习惯记录" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=8;fillColor=#FFFFFF;align=center;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
           <mxGeometry x="1230" y="390" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XAhqie3zoqo4tLYvia3U-0" value="每天日志" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
+          <mxGeometry x="-50" y="910" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAhqie3zoqo4tLYvia3U-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="K5GvEL43jEEJ1XbAceEI-1" source="K5GvEL43jEEJ1XbAceEI-233" target="XAhqie3zoqo4tLYvia3U-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
