@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-12T06:43:01.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="eCd2GZBNDY6CQL8d74pp" version="14.7.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-12T06:50:46.760Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="eBY6V1v0n9ewuBjuJ1Jz" version="14.7.6" type="github" pages="6">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="1457" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -966,7 +966,7 @@
         <mxCell id="NpueWo2nHzre_yyUFuHP-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;startFill=0;" parent="K5GvEL43jEEJ1XbAceEI-1" source="NpueWo2nHzre_yyUFuHP-0" target="NpueWo2nHzre_yyUFuHP-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NpueWo2nHzre_yyUFuHP-0" value="设备材料" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=8;fillColor=#FFFFFF;align=center;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
+        <mxCell id="NpueWo2nHzre_yyUFuHP-0" value="设备材料" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=8;fillColor=#fff2cc;align=center;strokeColor=#d6b656;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="1330" y="389.75" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NpueWo2nHzre_yyUFuHP-1" value="table@notion" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=7;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
@@ -1096,7 +1096,7 @@
         <mxCell id="Ipub6C_laqYzJNqKybSN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=13;entryPerimeter=0;" parent="K5GvEL43jEEJ1XbAceEI-1" source="Ipub6C_laqYzJNqKybSN-1" target="NpueWo2nHzre_yyUFuHP-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ipub6C_laqYzJNqKybSN-1" value="生活习惯记录" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=8;fillColor=#FFFFFF;align=center;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
+        <mxCell id="Ipub6C_laqYzJNqKybSN-1" value="生活习惯记录" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=8;fillColor=#fff2cc;align=center;strokeColor=#d6b656;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="1230" y="390" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="XAhqie3zoqo4tLYvia3U-0" value="每天日志" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
