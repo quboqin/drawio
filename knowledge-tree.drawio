@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-12T06:36:56.638Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="lfBDfiq-4gLIyzNNTlbj" version="14.7.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-12T06:43:01.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="eCd2GZBNDY6CQL8d74pp" version="14.7.6" type="github" pages="6">
   <diagram id="wDrhhhbncnmPJ3qnjKnf" name="full-stack-developer">
     <mxGraphModel dx="1457" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1069,10 +1069,10 @@
         <mxCell id="2O8XW9yc0jbE6cfLfqUz-74" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;startArrow=none;startFill=0;" parent="K5GvEL43jEEJ1XbAceEI-1" source="K5GvEL43jEEJ1XbAceEI-314" target="2O8XW9yc0jbE6cfLfqUz-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2O8XW9yc0jbE6cfLfqUz-77" value="存款/固定类收益" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
+        <mxCell id="2O8XW9yc0jbE6cfLfqUz-77" value="存款/固定类收益" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="310" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2O8XW9yc0jbE6cfLfqUz-78" value="权益类收益" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
+        <mxCell id="2O8XW9yc0jbE6cfLfqUz-78" value="权益类收益" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="390" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2O8XW9yc0jbE6cfLfqUz-82" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;startFill=0;" parent="K5GvEL43jEEJ1XbAceEI-1" source="2O8XW9yc0jbE6cfLfqUz-79" target="2O8XW9yc0jbE6cfLfqUz-80" edge="1">
@@ -1084,13 +1084,13 @@
         <mxCell id="2O8XW9yc0jbE6cfLfqUz-79" value="保险" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="470" y="450" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2O8XW9yc0jbE6cfLfqUz-80" value="医疗" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
+        <mxCell id="2O8XW9yc0jbE6cfLfqUz-80" value="医疗" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="440" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2O8XW9yc0jbE6cfLfqUz-81" value="车险" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
+        <mxCell id="2O8XW9yc0jbE6cfLfqUz-81" value="车险" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="520" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2O8XW9yc0jbE6cfLfqUz-84" value="期权RSU" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
+        <mxCell id="2O8XW9yc0jbE6cfLfqUz-84" value="期权RSU" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="550" y="450" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ipub6C_laqYzJNqKybSN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=13;entryPerimeter=0;" parent="K5GvEL43jEEJ1XbAceEI-1" source="Ipub6C_laqYzJNqKybSN-1" target="NpueWo2nHzre_yyUFuHP-1" edge="1">
@@ -1117,8 +1117,17 @@
         <mxCell id="PdwE00DXlZ9_r0hzSqlC-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fontSize=6;align=center;strokeColor=none;fillColor=#FF0000;" parent="K5GvEL43jEEJ1XbAceEI-1" vertex="1">
           <mxGeometry x="124.47" y="360" width="10.53" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="UzZ42xYIIfipait5n_eW-3" value="房产" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
+        <mxCell id="UzZ42xYIIfipait5n_eW-3" value="房产" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
           <mxGeometry x="330" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UzZ42xYIIfipait5n_eW-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K5GvEL43jEEJ1XbAceEI-1" source="UzZ42xYIIfipait5n_eW-4" target="UzZ42xYIIfipait5n_eW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzZ42xYIIfipait5n_eW-4" value="理财知识" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=7;align=center;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
+          <mxGeometry x="520" y="380" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UzZ42xYIIfipait5n_eW-5" value="notion" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;align=center;fontSize=6;" vertex="1" parent="K5GvEL43jEEJ1XbAceEI-1">
+          <mxGeometry x="430" y="370" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
