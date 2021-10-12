@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T02:47:31.127Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="-MUzTqJ7EFrNMApahmVu" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T02:58:04.651Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="MmUyMRDKGn7kCg6NkTwn" version="15.5.1" type="github">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
-    <mxGraphModel dx="418" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1268" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="le0ApetgXcpqMIrgdAIy-17" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Douglas Crockford(&amp;lt;JavaScript 語言精粹&amp;gt;作者)開發&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;强迫症&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;不能配置&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;更不能添加 Rule&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="180" width="200" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="le0ApetgXcpqMIrgdAIy-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="240" as="sourcePoint" />
@@ -13,17 +16,17 @@
         <mxCell id="le0ApetgXcpqMIrgdAIy-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="240" as="sourcePoint" />
-            <mxPoint x="160" y="200" as="targetPoint" />
+            <mxPoint x="140" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="le0ApetgXcpqMIrgdAIy-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="200" as="sourcePoint" />
-            <mxPoint x="160" y="200" as="targetPoint" />
+            <mxPoint x="100" y="180" as="sourcePoint" />
+            <mxPoint x="140" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="le0ApetgXcpqMIrgdAIy-4" value="JSLint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="120" y="180" width="40" height="20" as="geometry" />
+          <mxGeometry x="100" y="160" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="le0ApetgXcpqMIrgdAIy-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -69,6 +72,9 @@
         </mxCell>
         <mxCell id="le0ApetgXcpqMIrgdAIy-14" value="TSLint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="le0ApetgXcpqMIrgdAIy-18" value="&lt;ul style=&quot;font-size: 6px;&quot;&gt;&lt;li style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;color: rgb(25, 25, 25); font-size: 6px; background-color: rgb(255, 255, 255);&quot;&gt;Anton Kovalyov (現在在 Medium 工作) 基於 JSLint 開發了JSHint&lt;/span&gt;&lt;br style=&quot;font-size: 6px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 6px;&quot;&gt;&lt;font color=&quot;#191919&quot; style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;可配置&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="255" width="210" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
