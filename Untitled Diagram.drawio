@@ -1,89 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T03:05:34.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="HMAuq-9WoPpVxkfIeKK9" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T12:53:44.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="qOSHDBk2DsT7fIX2F4Do" version="15.5.1" type="github" pages="2">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
-    <mxGraphModel dx="1436" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1776" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="le0ApetgXcpqMIrgdAIy-17" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Douglas Crockford(&amp;lt;JavaScript 語言精粹&amp;gt;作者)開發&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;强迫症&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;不能配置&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;更不能添加 Rule&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-17" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Douglas Crockford(&amp;lt;JavaScript 語言精粹&amp;gt;作者)開發&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;强迫症&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;不能配置&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;更不能添加 Rule&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="-50" y="180" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="240" as="sourcePoint" />
             <mxPoint x="450" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="240" as="sourcePoint" />
             <mxPoint x="140" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="180" as="sourcePoint" />
             <mxPoint x="140" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-4" value="JSLint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-4" value="JSLint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="100" y="160" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="240" as="sourcePoint" />
             <mxPoint x="240" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="280" as="sourcePoint" />
             <mxPoint x="200" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-7" value="JSHint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-7" value="JSHint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="200" y="280" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="240" as="sourcePoint" />
             <mxPoint x="360" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-10" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="200" as="sourcePoint" />
             <mxPoint x="400" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-11" value="ESLint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-11" value="ESLint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="360" y="180" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="160" as="sourcePoint" />
             <mxPoint x="360" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-13" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="160" as="sourcePoint" />
             <mxPoint x="320" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-14" value="TSLint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-14" value="TSLint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="280" y="140" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-18" value="&lt;ul style=&quot;font-size: 6px;&quot;&gt;&lt;li style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;color: rgb(25, 25, 25); font-size: 6px; background-color: rgb(255, 255, 255);&quot;&gt;Anton Kovalyov (現在在 Medium 工作) 基於 JSLint 開發了JSHint&lt;/span&gt;&lt;br style=&quot;font-size: 6px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 6px;&quot;&gt;&lt;font color=&quot;#191919&quot; style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;可配置&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-18" value="&lt;ul style=&quot;font-size: 6px;&quot;&gt;&lt;li style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;color: rgb(25, 25, 25); font-size: 6px; background-color: rgb(255, 255, 255);&quot;&gt;Anton Kovalyov (現在在 Medium 工作) 基於 JSLint 開發了JSHint&lt;/span&gt;&lt;br style=&quot;font-size: 6px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 6px;&quot;&gt;&lt;font color=&quot;#191919&quot; style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;可配置&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="255" width="210" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-19" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-19" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 6px ; font-style: normal ; font-weight: 500 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="210" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-21" value="&lt;span style=&quot;color: rgb(25, 25, 25); background-color: rgb(255, 255, 255);&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25, 25, 25); background-color: rgb(255, 255, 255);&quot;&gt;Nicholas C. Zakas (《JavaScript 高級程序設計》作者) 於2013年6月創建&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25, 25, 25); background-color: rgb(255, 255, 255);&quot;&gt;可添加 Rule&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-21" value="&lt;span style=&quot;color: rgb(25, 25, 25); background-color: rgb(255, 255, 255);&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25, 25, 25); background-color: rgb(255, 255, 255);&quot;&gt;Nicholas C. Zakas (《JavaScript 高級程序設計》作者) 於2013年6月創建&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(25, 25, 25); background-color: rgb(255, 255, 255);&quot;&gt;可添加 Rule&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=6;" parent="1" vertex="1">
           <mxGeometry x="330" y="205" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="le0ApetgXcpqMIrgdAIy-22" value="&lt;meta charset=&quot;utf-8&quot; style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 41, 55); font-family: inter, sans-serif; font-size: 6px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;In the&lt;span style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href=&quot;https://github.com/Microsoft/TypeScript/issues/29288#developer-productivity-tools-and-integration&quot; target=&quot;_blank&quot; style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; text-decoration: none; overflow-wrap: break-word; font-weight: 500; font-family: inter, sans-serif; font-size: 6px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;TypeScript 2019 Roadmap&lt;/a&gt;&lt;span style=&quot;color: rgb(31, 41, 55); font-family: inter, sans-serif; font-size: 6px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;, the TypeScript core team explains that&lt;span style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; font-weight: 600; color: rgb(31, 41, 55); font-family: inter, sans-serif; font-size: 6px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;ESLint has a more performant architecture than TSLint&lt;/strong&gt;&lt;span style=&quot;color: rgb(31, 41, 55); font-family: inter, sans-serif; font-size: 6px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;&lt;/span&gt;and that they will&lt;span style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; font-weight: 600; color: rgb(31, 41, 55); font-family: inter, sans-serif; font-size: 6px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;only be focusing on ESLint&lt;/strong&gt;&lt;span style=&quot;color: rgb(31, 41, 55); font-family: inter, sans-serif; font-size: 6px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;&lt;/span&gt;when providing editor linting integration for TypeScript&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="le0ApetgXcpqMIrgdAIy-22" value="&lt;meta charset=&quot;utf-8&quot; style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 41, 55); font-family: inter, sans-serif; font-size: 6px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;In the&lt;span style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href=&quot;https://github.com/Microsoft/TypeScript/issues/29288#developer-productivity-tools-and-integration&quot; target=&quot;_blank&quot; style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; text-decoration: none; overflow-wrap: break-word; font-weight: 500; font-family: inter, sans-serif; font-size: 6px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;TypeScript 2019 Roadmap&lt;/a&gt;&lt;span style=&quot;color: rgb(31, 41, 55); font-family: inter, sans-serif; font-size: 6px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;, the TypeScript core team explains that&lt;span style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; font-weight: 600; color: rgb(31, 41, 55); font-family: inter, sans-serif; font-size: 6px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;ESLint has a more performant architecture than TSLint&lt;/strong&gt;&lt;span style=&quot;color: rgb(31, 41, 55); font-family: inter, sans-serif; font-size: 6px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;&lt;/span&gt;and that they will&lt;span style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; font-weight: 600; color: rgb(31, 41, 55); font-family: inter, sans-serif; font-size: 6px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;only be focusing on ESLint&lt;/strong&gt;&lt;span style=&quot;color: rgb(31, 41, 55); font-family: inter, sans-serif; font-size: 6px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;&lt;/span&gt;when providing editor linting integration for TypeScript&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
           <mxGeometry x="190" y="110" width="210" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J6DdtUKgQA5Rifj32dwp" name="Page-2">
+    <mxGraphModel dx="946" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="SD3Na48suFDqOnnnDheD-0" />
+        <mxCell id="SD3Na48suFDqOnnnDheD-1" parent="SD3Na48suFDqOnnnDheD-0" />
+        <mxCell id="SD3Na48suFDqOnnnDheD-2" value="VSCode" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;align=left;verticalAlign=top;spacingLeft=4;" vertex="1" parent="SD3Na48suFDqOnnnDheD-1">
+          <mxGeometry x="180" y="130" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SD3Na48suFDqOnnnDheD-3" value="CLI" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;align=left;verticalAlign=top;spacingLeft=4;" vertex="1" parent="SD3Na48suFDqOnnnDheD-1">
+          <mxGeometry x="180" y="230" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SD3Na48suFDqOnnnDheD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SD3Na48suFDqOnnnDheD-1" source="SD3Na48suFDqOnnnDheD-6" target="SD3Na48suFDqOnnnDheD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SD3Na48suFDqOnnnDheD-6" value="ESLint(Extension)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="SD3Na48suFDqOnnnDheD-1">
+          <mxGeometry x="230" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SD3Na48suFDqOnnnDheD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SD3Na48suFDqOnnnDheD-1" source="SD3Na48suFDqOnnnDheD-7" target="SD3Na48suFDqOnnnDheD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SD3Na48suFDqOnnnDheD-7" value="ESLint" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="SD3Na48suFDqOnnnDheD-1">
+          <mxGeometry x="230" y="245" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SD3Na48suFDqOnnnDheD-8" value="Prettier" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="SD3Na48suFDqOnnnDheD-1">
+          <mxGeometry x="425" y="245" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
