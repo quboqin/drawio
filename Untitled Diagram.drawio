@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T11:52:11.469Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="yR1JURAZ-CZsghWDiBiF" version="15.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-22T02:08:26.929Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="XbutACq3Sn5fznTnxYaJ" version="15.5.8" type="github" pages="4">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
-    <mxGraphModel dx="1621" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J6DdtUKgQA5Rifj32dwp" name="Page-2">
-    <mxGraphModel dx="925" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="738" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SD3Na48suFDqOnnnDheD-0" />
         <mxCell id="SD3Na48suFDqOnnnDheD-1" parent="SD3Na48suFDqOnnnDheD-0" />
@@ -118,73 +118,87 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6woQ_8jN51Nei6K4aR3G" name="Page-3">
-    <mxGraphModel dx="1088" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="738" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XH__NhtDO8kpU1Bj2pk_-0" />
         <mxCell id="XH__NhtDO8kpU1Bj2pk_-1" parent="XH__NhtDO8kpU1Bj2pk_-0" />
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-2" value="FinAxist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XH__NhtDO8kpU1Bj2pk_-1">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-2" value="FinAxist" style="rounded=0;whiteSpace=wrap;html=1;" parent="XH__NhtDO8kpU1Bj2pk_-1" vertex="1">
           <mxGeometry x="120" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-3" value="CIMB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XH__NhtDO8kpU1Bj2pk_-1">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-3" value="CIMB" style="rounded=0;whiteSpace=wrap;html=1;" parent="XH__NhtDO8kpU1Bj2pk_-1" vertex="1">
           <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;" edge="1" parent="XH__NhtDO8kpU1Bj2pk_-1" source="XH__NhtDO8kpU1Bj2pk_-10" target="XH__NhtDO8kpU1Bj2pk_-2">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;" parent="XH__NhtDO8kpU1Bj2pk_-1" source="XH__NhtDO8kpU1Bj2pk_-10" target="XH__NhtDO8kpU1Bj2pk_-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="600" as="sourcePoint" />
             <mxPoint x="430" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="XH__NhtDO8kpU1Bj2pk_-1" target="XH__NhtDO8kpU1Bj2pk_-3">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-5" value="" style="endArrow=none;html=1;rounded=0;" parent="XH__NhtDO8kpU1Bj2pk_-1" target="XH__NhtDO8kpU1Bj2pk_-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="499" y="600" as="sourcePoint" />
             <mxPoint x="499.41" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="XH__NhtDO8kpU1Bj2pk_-1">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="XH__NhtDO8kpU1Bj2pk_-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="160" as="sourcePoint" />
             <mxPoint x="500" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-8" value="rsa-public" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XH__NhtDO8kpU1Bj2pk_-7">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-8" value="rsa-public" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XH__NhtDO8kpU1Bj2pk_-7" vertex="1" connectable="0">
           <mxGeometry x="-0.1382" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-9" value="&lt;span style=&quot;color: rgb(59 , 65 , 81) ; font-family: sans-serif ; font-size: 10px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgba(73 , 204 , 144 , 0.1) ; text-decoration: none ; display: inline ; float: none&quot;&gt;The PARTNER system is required to use RSA public key to encrypt &lt;/span&gt;&lt;span style=&quot;color: rgb(59 , 65 , 81) ; font-family: sans-serif ; font-size: 10px ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgba(73 , 204 , 144 , 0.1) ; text-decoration: none ; display: inline ; float: none&quot;&gt;&lt;b&gt;AES session key&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(59 , 65 , 81) ; font-family: sans-serif ; font-size: 10px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgba(73 , 204 , 144 , 0.1) ; text-decoration: none ; display: inline ; float: none&quot;&gt; while accessing Restricted APIs.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="XH__NhtDO8kpU1Bj2pk_-1">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-9" value="&lt;span style=&quot;color: rgb(59 , 65 , 81) ; font-family: sans-serif ; font-size: 10px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgba(73 , 204 , 144 , 0.1) ; text-decoration: none ; display: inline ; float: none&quot;&gt;The PARTNER system is required to use RSA public key to encrypt &lt;/span&gt;&lt;span style=&quot;color: rgb(59 , 65 , 81) ; font-family: sans-serif ; font-size: 10px ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgba(73 , 204 , 144 , 0.1) ; text-decoration: none ; display: inline ; float: none&quot;&gt;&lt;b&gt;AES session key&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(59 , 65 , 81) ; font-family: sans-serif ; font-size: 10px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgba(73 , 204 , 144 , 0.1) ; text-decoration: none ; display: inline ; float: none&quot;&gt; while accessing Restricted APIs.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" parent="XH__NhtDO8kpU1Bj2pk_-1" vertex="1">
           <mxGeometry x="540" y="140" width="380" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=10;" vertex="1" parent="XH__NhtDO8kpU1Bj2pk_-1">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=10;" parent="XH__NhtDO8kpU1Bj2pk_-1" vertex="1">
           <mxGeometry x="175" y="180" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="XH__NhtDO8kpU1Bj2pk_-1" target="XH__NhtDO8kpU1Bj2pk_-10">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="XH__NhtDO8kpU1Bj2pk_-1" target="XH__NhtDO8kpU1Bj2pk_-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="599.9999999999998" as="sourcePoint" />
             <mxPoint x="180" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-12" value="&lt;div class=&quot;page&quot; title=&quot;Page 30&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 8.000000pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Generate random&lt;br&gt;Symmetry key?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;		&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;spacing=0;" vertex="1" parent="XH__NhtDO8kpU1Bj2pk_-1">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-12" value="&lt;div class=&quot;page&quot; title=&quot;Page 30&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 8.000000pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Generate random&lt;br&gt;Symmetry key?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;spacing=0;" parent="XH__NhtDO8kpU1Bj2pk_-1" vertex="1">
           <mxGeometry x="95" y="180" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="XH__NhtDO8kpU1Bj2pk_-1">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="XH__NhtDO8kpU1Bj2pk_-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="260" as="sourcePoint" />
             <mxPoint x="500" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-14" value="which API？&lt;span style=&quot;color: rgb(49 , 49 , 49) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 14px ; background-color: rgb(253 , 253 , 253)&quot;&gt;/authenticate and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(49 , 49 , 49) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 14px ; background-color: rgb(253 , 253 , 253)&quot;&gt;/account/casa/authorize&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XH__NhtDO8kpU1Bj2pk_-13">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-14" value="which API？&lt;span style=&quot;color: rgb(49 , 49 , 49) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 14px ; background-color: rgb(253 , 253 , 253)&quot;&gt;/authenticate and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(49 , 49 , 49) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 14px ; background-color: rgb(253 , 253 , 253)&quot;&gt;/account/casa/authorize&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XH__NhtDO8kpU1Bj2pk_-13" vertex="1" connectable="0">
           <mxGeometry x="-0.1382" y="1" relative="1" as="geometry">
             <mxPoint x="22" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-17" value="&lt;p class=&quot;p1&quot;&gt;&lt;b&gt;&quot;userDevicePayload&quot;: &quot;xkdjlakjf;dkjsaf;lkd ;lkjdsakjeijriewjrioewjroiewjrkewfldsnlvaf;pgsdraesrewarewar&quot; is userid?&lt;/b&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="XH__NhtDO8kpU1Bj2pk_-1">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-17" value="&lt;p class=&quot;p1&quot;&gt;&lt;b&gt;&quot;userDevicePayload&quot;: &quot;xkdjlakjf;dkjsaf;lkd ;lkjdsakjeijriewjrioewjroiewjrkewfldsnlvaf;pgsdraesrewarewar&quot; is userid?&lt;/b&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" parent="XH__NhtDO8kpU1Bj2pk_-1" vertex="1">
           <mxGeometry x="530" y="230" width="530" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-18" value="&lt;div class=&quot;page&quot; title=&quot;Page 30&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 8.000000pt ; font-family: &amp;#34;calibri&amp;#34; ; font-weight: 700 ; font-style: italic ; color: rgb(100.000000% , 0.000000% , 0.000000%)&quot;&gt;User JWT token is valid for X hours, and cannot be refreshed. Partner server to request for new&lt;br&gt;user JWT token once expire&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 8.000000pt ; font-family: &amp;#34;calibri&amp;#34; ; font-weight: 700 ; font-style: italic ; color: rgb(100.000000% , 0.000000% , 0.000000%)&quot;&gt;X = ?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;		&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="XH__NhtDO8kpU1Bj2pk_-1">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-18" value="&lt;div class=&quot;page&quot; title=&quot;Page 30&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 8.000000pt ; font-family: &amp;#34;calibri&amp;#34; ; font-weight: 700 ; font-style: italic ; color: rgb(100.000000% , 0.000000% , 0.000000%)&quot;&gt;User JWT token is valid for X hours, and cannot be refreshed. Partner server to request for new&lt;br&gt;user JWT token once expire&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 8.000000pt ; font-family: &amp;#34;calibri&amp;#34; ; font-weight: 700 ; font-style: italic ; color: rgb(100.000000% , 0.000000% , 0.000000%)&quot;&gt;X = ?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" parent="XH__NhtDO8kpU1Bj2pk_-1" vertex="1">
           <mxGeometry x="540" y="270" width="450" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XH__NhtDO8kpU1Bj2pk_-19" value="&lt;p class=&quot;p1&quot;&gt;Get Partner OctoWeb user token from API Authorize Partner User – Octo Web&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="XH__NhtDO8kpU1Bj2pk_-1">
+        <mxCell id="XH__NhtDO8kpU1Bj2pk_-19" value="&lt;p class=&quot;p1&quot;&gt;Get Partner OctoWeb user token from API Authorize Partner User – Octo Web&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" parent="XH__NhtDO8kpU1Bj2pk_-1" vertex="1">
           <mxGeometry x="540" y="380" width="370" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qXaLkb4PfhRSMz3oqCxf" name="Page-4">
+    <mxGraphModel dx="738" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="yBAVhlketcz7nQujx4Lb-0" />
+        <mxCell id="yBAVhlketcz7nQujx4Lb-1" parent="yBAVhlketcz7nQujx4Lb-0" />
+        <mxCell id="yBAVhlketcz7nQujx4Lb-2" value="Cat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yBAVhlketcz7nQujx4Lb-1">
+          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yBAVhlketcz7nQujx4Lb-3" value="Cat.prototype" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yBAVhlketcz7nQujx4Lb-1">
+          <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
