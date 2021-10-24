@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T05:10:39.575Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="W_hiOd7np96Bbm8lHBYJ" version="15.5.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-24T13:02:40.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="r_uRReFACZfxNg5xrAva" version="15.5.4" type="github" pages="5">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
-    <mxGraphModel dx="1588" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2544" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,6 +340,23 @@
         </mxCell>
         <mxCell id="yBAVhlketcz7nQujx4Lb-41" value="- foods" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="yBAVhlketcz7nQujx4Lb-1">
           <mxGeometry x="330" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MWHwI0Wf-4mzs0I7byro" name="Page-5">
+    <mxGraphModel dx="1186" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="LFQMMMww-_zGvSXDiwwq-0" />
+        <mxCell id="LFQMMMww-_zGvSXDiwwq-1" parent="LFQMMMww-_zGvSXDiwwq-0" />
+        <mxCell id="LFQMMMww-_zGvSXDiwwq-3" value="声明文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LFQMMMww-_zGvSXDiwwq-1">
+          <mxGeometry x="360" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LFQMMMww-_zGvSXDiwwq-4" value="全局变量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LFQMMMww-_zGvSXDiwwq-1">
+          <mxGeometry x="520" y="260" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LFQMMMww-_zGvSXDiwwq-5" value="npm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LFQMMMww-_zGvSXDiwwq-1">
+          <mxGeometry x="520" y="390" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
