@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T02:06:07.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="xqZiJYOIMygQeiUf-l-q" version="15.9.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-12-20T02:11:08.353Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YkkNdBVVr73K3wRjHpns" version="15.9.1" type="github" pages="6">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
     <mxGraphModel dx="1749" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n5ij7zAnltN0yaNbTHsH-47" value="teacher leave" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="n5ij7zAnltN0yaNbTHsH-1" source="n5ij7zAnltN0yaNbTHsH-36" target="n5ij7zAnltN0yaNbTHsH-40" edge="1">
+        <mxCell id="n5ij7zAnltN0yaNbTHsH-47" value="teacher leave A" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="n5ij7zAnltN0yaNbTHsH-1" source="n5ij7zAnltN0yaNbTHsH-36" target="n5ij7zAnltN0yaNbTHsH-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n5ij7zAnltN0yaNbTHsH-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=8;dashed=1;" parent="n5ij7zAnltN0yaNbTHsH-1" source="n5ij7zAnltN0yaNbTHsH-36" target="n5ij7zAnltN0yaNbTHsH-24" edge="1">
@@ -504,7 +504,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n5ij7zAnltN0yaNbTHsH-50" value="teacher leave" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="n5ij7zAnltN0yaNbTHsH-49" vertex="1" connectable="0">
+        <mxCell id="n5ij7zAnltN0yaNbTHsH-50" value="teacher leave. B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="n5ij7zAnltN0yaNbTHsH-49" vertex="1" connectable="0">
           <mxGeometry x="-0.0212" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -569,7 +569,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n5ij7zAnltN0yaNbTHsH-58" value="teacher quit or centre cance&lt;br&gt;info Admin" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="n5ij7zAnltN0yaNbTHsH-1" source="n5ij7zAnltN0yaNbTHsH-51" target="n5ij7zAnltN0yaNbTHsH-57" edge="1">
+        <mxCell id="n5ij7zAnltN0yaNbTHsH-58" value="teacher quit early will be notified to admin or teacher stay longer?&lt;br&gt;centre cancel will also be notified to admin" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="n5ij7zAnltN0yaNbTHsH-1" source="n5ij7zAnltN0yaNbTHsH-51" target="n5ij7zAnltN0yaNbTHsH-57" edge="1">
           <mxGeometry x="0.4286" y="30" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
