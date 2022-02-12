@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T08:21:28.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="PrFXzieolPPgiwVXqIna" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-12T08:26:42.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="NpnvlCvcl8v9dLJGCnMJ" version="16.5.6" type="github" pages="4">
   <diagram id="Y5SZPlDqchn7_NLFBQAu" name="Page-1">
     <mxGraphModel dx="1554" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -271,23 +271,37 @@
       <root>
         <mxCell id="STwx2J5rzELR3wbZ9-de-0" />
         <mxCell id="STwx2J5rzELR3wbZ9-de-1" parent="STwx2J5rzELR3wbZ9-de-0" />
-        <mxCell id="STwx2J5rzELR3wbZ9-de-2" value="Openwrt Router" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;align=left;verticalAlign=top;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+        <mxCell id="STwx2J5rzELR3wbZ9-de-2" value="R4S Openwrt Router" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;align=left;verticalAlign=top;spacingLeft=3;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
           <mxGeometry x="80" y="160" width="380" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="STwx2J5rzELR3wbZ9-de-4" value="LAN" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+        <mxCell id="STwx2J5rzELR3wbZ9-de-4" value="LAN" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;align=right;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
           <mxGeometry x="-60" y="260" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="STwx2J5rzELR3wbZ9-de-5" value="WAN" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+        <mxCell id="STwx2J5rzELR3wbZ9-de-5" value="WAN" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;align=right;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
           <mxGeometry x="360" y="260" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="STwx2J5rzELR3wbZ9-de-6" value="Passwall" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;align=left;verticalAlign=top;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+        <mxCell id="STwx2J5rzELR3wbZ9-de-6" value="Passwall" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;align=left;verticalAlign=top;spacingLeft=3;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
           <mxGeometry x="100" y="190" width="340" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="STwx2J5rzELR3wbZ9-de-7" value="dnsmasq" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;verticalAlign=top;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+        <mxCell id="STwx2J5rzELR3wbZ9-de-7" value="dnsmasq" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;verticalAlign=top;spacingLeft=3;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
           <mxGeometry x="130" y="220" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="STwx2J5rzELR3wbZ9-de-8" value="pdnsd" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;align=left;verticalAlign=top;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+        <mxCell id="STwx2J5rzELR3wbZ9-de-8" value="pdnsd" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;align=left;verticalAlign=top;spacingLeft=3;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
           <mxGeometry x="280" y="220" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="STwx2J5rzELR3wbZ9-de-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8;endSize=5;endWidth=10;labelBackgroundColor=#FFFFFF;fillColor=default;" edge="1" parent="STwx2J5rzELR3wbZ9-de-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="254.5" as="sourcePoint" />
+            <mxPoint x="130" y="254.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="254.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="STwx2J5rzELR3wbZ9-de-12" value="53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="STwx2J5rzELR3wbZ9-de-10">
+          <mxGeometry x="0.5818" relative="1" as="geometry">
+            <mxPoint x="13" y="16" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
