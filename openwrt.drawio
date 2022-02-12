@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T08:29:14.571Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="4g1QnKnJu8yaR6CFDwTL" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-12T08:31:03.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="HSWaK_Eeh8qYkgVKLvMN" version="16.5.6" type="github" pages="4">
   <diagram id="Y5SZPlDqchn7_NLFBQAu" name="Page-1">
     <mxGraphModel dx="1554" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -350,6 +350,12 @@
           <mxGeometry x="0.5818" relative="1" as="geometry">
             <mxPoint x="39" y="20" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="STwx2J5rzELR3wbZ9-de-21" value="分流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+          <mxGeometry x="160" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="STwx2J5rzELR3wbZ9-de-22" value="缓存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+          <mxGeometry x="345" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
