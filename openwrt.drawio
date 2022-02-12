@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T09:55:20.520Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="3G_l3axAQ-phBgTTD3wy" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-12T09:59:56.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="a-GLkBjfv6TcC_boqNOD" version="16.5.6" type="github" pages="4">
   <diagram id="Y5SZPlDqchn7_NLFBQAu" name="Page-1">
     <mxGraphModel dx="1554" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -357,14 +357,14 @@
         <mxCell id="STwx2J5rzELR3wbZ9-de-22" value="缓存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
           <mxGeometry x="405" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="STwx2J5rzELR3wbZ9-de-23" value="DNS解析获取DNS服务器地址" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
-          <mxGeometry x="190" y="560" width="120" height="80" as="geometry" />
+        <mxCell id="STwx2J5rzELR3wbZ9-de-23" value="获取DNS服务器的IP地址" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fontSize=10;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+          <mxGeometry x="80" y="560" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="STwx2J5rzELR3wbZ9-de-24" value="用DNS服务&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22DNS%E8%A7%A3%E6%9E%90%26lt%3Bbr%26gt%3B%E8%8E%B7%E5%8F%96DNS%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%9C%B0%E5%9D%80%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BarcSize%3D10%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2280%22%20y%3D%22560%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;器的IP访问DNS服务器获取目标网站的IP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
-          <mxGeometry x="350" y="560" width="120" height="80" as="geometry" />
+        <mxCell id="STwx2J5rzELR3wbZ9-de-24" value="用DNS服务&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22DNS%E8%A7%A3%E6%9E%90%26lt%3Bbr%26gt%3B%E8%8E%B7%E5%8F%96DNS%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%9C%B0%E5%9D%80%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BarcSize%3D10%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2280%22%20y%3D%22560%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;器的IP地址&lt;br&gt;访问DNS服务器&lt;br&gt;获取目标网站的IP地址" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+          <mxGeometry x="270" y="560" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="STwx2J5rzELR3wbZ9-de-25" value="用目标网站的IP访问目标网站" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
-          <mxGeometry x="510" y="560" width="120" height="80" as="geometry" />
+        <mxCell id="STwx2J5rzELR3wbZ9-de-25" value="用目标网站的IP地址&lt;br&gt;访问目标网站" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+          <mxGeometry x="510" y="560" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="STwx2J5rzELR3wbZ9-de-26" value="直接访问" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
           <mxGeometry x="370" y="880" width="120" height="40" as="geometry" />
