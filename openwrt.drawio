@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T09:54:07.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="HH5aQ2tsYad9ht3rA_EQ" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-12T09:55:07.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="UDBUrMz-WCptc7uuSE4r" version="16.5.6" type="github" pages="4">
   <diagram id="Y5SZPlDqchn7_NLFBQAu" name="Page-1">
     <mxGraphModel dx="1554" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -369,7 +369,7 @@
         <mxCell id="STwx2J5rzELR3wbZ9-de-26" value="直接访问" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
           <mxGeometry x="370" y="880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="STwx2J5rzELR3wbZ9-de-27" value="pdnsd" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+        <mxCell id="STwx2J5rzELR3wbZ9-de-27" value="pdnsd&lt;br&gt;缓存" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
           <mxGeometry x="370" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="STwx2J5rzELR3wbZ9-de-28" value="可信的国外DNS服务器 例如 1.1.1.1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
@@ -378,7 +378,7 @@
         <mxCell id="STwx2J5rzELR3wbZ9-de-29" value="WAN接口上制定的国内可行的DNS服务器" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fontSize=10;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
           <mxGeometry x="370" y="800" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="STwx2J5rzELR3wbZ9-de-30" value="dnsmasq分流" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
+        <mxCell id="STwx2J5rzELR3wbZ9-de-30" value="dnsmasq&lt;br&gt;分流" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
           <mxGeometry x="170" y="680" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="STwx2J5rzELR3wbZ9-de-31" value="是否要走代理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="STwx2J5rzELR3wbZ9-de-1">
