@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T14:51:20.549Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="Q_Fkr-sC1B9AuEVQpUE0" version="17.0.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-08T15:17:52.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="3UZcIGwtYO37udM4MpDR" version="17.0.0" type="github" pages="8">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
     <mxGraphModel dx="1868" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -670,7 +670,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="p1TgIIICJVoDg4X1nYYD" name="Page-7">
+  <diagram id="p1TgIIICJVoDg4X1nYYD" name="Home Network">
     <mxGraphModel dx="1018" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="s749lrRT0PUbc4pBVvso-0" />
@@ -1037,7 +1037,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Page-7" id="FHUE0CyAFmWkipKbSQsm">
+  <diagram name="Optimized Home Network" id="FHUE0CyAFmWkipKbSQsm">
     <mxGraphModel dx="1018" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_o8cqkO8TDDStstgQsMD-0" />
