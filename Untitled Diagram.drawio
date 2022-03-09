@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T06:05:44.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="nYxSWl-dCSzMnmbI8MUc" version="16.6.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-09T08:35:43.107Z" agent="5.0 (iPad; CPU OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/98.0.4758.97 Mobile/15E148 Safari/604.1" etag="FyHZ6_2jkbeMSrcHG4MV" version="16.6.7" type="github" pages="9">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
-    <mxGraphModel dx="1796" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1546" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1038,7 +1038,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Optimized Home Network" id="FHUE0CyAFmWkipKbSQsm">
-    <mxGraphModel dx="860" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="994" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_o8cqkO8TDDStstgQsMD-0" />
         <mxCell id="_o8cqkO8TDDStstgQsMD-1" parent="_o8cqkO8TDDStstgQsMD-0" />
@@ -1093,16 +1093,6 @@
         <mxCell id="_o8cqkO8TDDStstgQsMD-14" value="LAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-13" vertex="1" connectable="0">
           <mxGeometry x="0.1644" y="1" relative="1" as="geometry">
             <mxPoint x="76" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-5" target="_o8cqkO8TDDStstgQsMD-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="220" as="sourcePoint" />
-            <mxPoint x="400" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="340" y="160" />
-              <mxPoint x="200" y="160" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-5" target="_o8cqkO8TDDStstgQsMD-10" edge="1">
@@ -1350,7 +1340,7 @@
         <mxCell id="_o8cqkO8TDDStstgQsMD-75" value="Smart Power Plug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="480" y="561.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lsHMlBK3a89hMWsJTO1_-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=9;startArrow=classic;startFill=1;" edge="1" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-76" target="_o8cqkO8TDDStstgQsMD-38">
+        <mxCell id="lsHMlBK3a89hMWsJTO1_-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=9;startArrow=classic;startFill=1;" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-76" target="_o8cqkO8TDDStstgQsMD-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="680" />
