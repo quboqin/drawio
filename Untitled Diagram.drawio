@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T08:35:43.107Z" agent="5.0 (iPad; CPU OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/98.0.4758.97 Mobile/15E148 Safari/604.1" etag="FyHZ6_2jkbeMSrcHG4MV" version="16.6.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-09T08:43:03.445Z" agent="5.0 (iPad; CPU OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/98.0.4758.97 Mobile/15E148 Safari/604.1" etag="7ALG1PREVT3ZSFRPSGQQ" version="16.6.7" type="github" pages="9">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
     <mxGraphModel dx="1546" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1038,7 +1038,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Optimized Home Network" id="FHUE0CyAFmWkipKbSQsm">
-    <mxGraphModel dx="994" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_o8cqkO8TDDStstgQsMD-0" />
         <mxCell id="_o8cqkO8TDDStstgQsMD-1" parent="_o8cqkO8TDDStstgQsMD-0" />
@@ -1064,7 +1064,7 @@
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-8" value="HDMI 3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-7" vertex="1" connectable="0">
           <mxGeometry x="0.0476" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="1" as="offset" />
+            <mxPoint x="1" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-9" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tablet;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
