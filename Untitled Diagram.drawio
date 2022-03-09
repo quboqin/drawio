@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T05:14:39.983Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="0RdEN5gg5gQLWfiGc0NG" version="16.6.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-09T06:02:58.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="DPjK9AZQt6JEHVfDad14" version="16.6.5" type="github" pages="9">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
     <mxGraphModel dx="1796" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1234,14 +1234,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;startArrow=none;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;elbow=vertical;dashed=1;" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-77" target="_o8cqkO8TDDStstgQsMD-76" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="480" y="364" />
-              <mxPoint x="480" y="680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-38" value="&lt;br&gt;&amp;nbsp;XIAOMI 3600" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="365" y="349" width="70" height="30" as="geometry" />
         </mxCell>
@@ -1353,20 +1345,19 @@
         <mxCell id="_o8cqkO8TDDStstgQsMD-75" value="Smart Power Plug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="480" y="561.25" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lsHMlBK3a89hMWsJTO1_-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=9;startArrow=classic;startFill=1;" edge="1" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-76" target="_o8cqkO8TDDStstgQsMD-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="680" />
+              <mxPoint x="480" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-76" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/travelling-icon-set/800/fan-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="548.25" y="660" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-77" value="Smart Power Plug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="480" y="718" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;startArrow=classic;startFill=1;endArrow=none;endFill=1;strokeWidth=1;elbow=vertical;dashed=1;" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-38" target="_o8cqkO8TDDStstgQsMD-77" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="364" as="sourcePoint" />
-            <mxPoint x="548.25" y="680" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="480" y="364" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="496" y="690" width="28" height="28" as="geometry" />
@@ -1387,7 +1378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Wireless Optimized Home Network" id="8pDC-YhdbcbWALzsm_uE">
-    <mxGraphModel dx="946" dy="1632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="2J2cOZMSKoOfH_H72ST4-0" />
         <mxCell id="2J2cOZMSKoOfH_H72ST4-1" parent="2J2cOZMSKoOfH_H72ST4-0" />
@@ -1471,11 +1462,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2J2cOZMSKoOfH_H72ST4-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;fontSize=9;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" source="2J2cOZMSKoOfH_H72ST4-22" target="2J2cOZMSKoOfH_H72ST4-53">
+        <mxCell id="2J2cOZMSKoOfH_H72ST4-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=9;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" source="2J2cOZMSKoOfH_H72ST4-22">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="300" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="230" />
-              <mxPoint x="240" y="337" />
+              <mxPoint x="240" y="300" />
+              <mxPoint x="113" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1513,7 +1506,7 @@
         </mxCell>
         <mxCell id="2J2cOZMSKoOfH_H72ST4-28" value="Mesh" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="2J2cOZMSKoOfH_H72ST4-27">
           <mxGeometry x="0.0218" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="67" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2J2cOZMSKoOfH_H72ST4-29" value="Software&lt;br&gt;Router&lt;br&gt;X86/R4S" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="2J2cOZMSKoOfH_H72ST4-1">
@@ -1525,47 +1518,45 @@
         <mxCell id="2J2cOZMSKoOfH_H72ST4-32" value="XIAOMI&lt;br&gt;1800" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="2J2cOZMSKoOfH_H72ST4-1">
           <mxGeometry x="365" y="460" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2J2cOZMSKoOfH_H72ST4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;elbow=vertical;dashed=1;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" source="2J2cOZMSKoOfH_H72ST4-38" target="2J2cOZMSKoOfH_H72ST4-51">
+        <mxCell id="2J2cOZMSKoOfH_H72ST4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;elbow=vertical;dashed=1;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" target="2J2cOZMSKoOfH_H72ST4-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="364" />
+              <mxPoint x="360" y="364" />
             </Array>
+            <mxPoint x="360" y="260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2J2cOZMSKoOfH_H72ST4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" source="2J2cOZMSKoOfH_H72ST4-38" target="2J2cOZMSKoOfH_H72ST4-56">
+        <mxCell id="2J2cOZMSKoOfH_H72ST4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" target="2J2cOZMSKoOfH_H72ST4-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="364" />
               <mxPoint x="480" y="457" />
             </Array>
+            <mxPoint x="360" y="260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2J2cOZMSKoOfH_H72ST4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" source="2J2cOZMSKoOfH_H72ST4-38" target="2J2cOZMSKoOfH_H72ST4-57">
+        <mxCell id="2J2cOZMSKoOfH_H72ST4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" target="2J2cOZMSKoOfH_H72ST4-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="360" y="364" />
               <mxPoint x="480" y="364" />
               <mxPoint x="480" y="533" />
             </Array>
+            <mxPoint x="360" y="260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2J2cOZMSKoOfH_H72ST4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" source="2J2cOZMSKoOfH_H72ST4-38" target="2J2cOZMSKoOfH_H72ST4-58">
+        <mxCell id="2J2cOZMSKoOfH_H72ST4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;elbow=vertical;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" source="2J2cOZMSKoOfH_H72ST4-78" target="2J2cOZMSKoOfH_H72ST4-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="360" y="364" />
               <mxPoint x="480" y="364" />
               <mxPoint x="480" y="610" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2J2cOZMSKoOfH_H72ST4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;startArrow=none;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;elbow=vertical;dashed=1;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" source="2J2cOZMSKoOfH_H72ST4-71" target="2J2cOZMSKoOfH_H72ST4-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="480" y="364" />
-              <mxPoint x="480" y="680" />
-            </Array>
+            <mxPoint x="360" y="260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2J2cOZMSKoOfH_H72ST4-38" value="&lt;br&gt;&amp;nbsp;XIAOMI 3600" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="2J2cOZMSKoOfH_H72ST4-1">
-          <mxGeometry x="365" y="349" width="70" height="30" as="geometry" />
+          <mxGeometry x="240" y="190" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2J2cOZMSKoOfH_H72ST4-39" value="XIAOMI TV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="2J2cOZMSKoOfH_H72ST4-1">
           <mxGeometry x="170" y="57.5" width="60" height="30" as="geometry" />
@@ -1653,11 +1644,10 @@
         <mxCell id="2J2cOZMSKoOfH_H72ST4-62" value="192.168.123.150" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=5;fontColor=#FF3333;" vertex="1" parent="2J2cOZMSKoOfH_H72ST4-1">
           <mxGeometry x="520" y="27.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2J2cOZMSKoOfH_H72ST4-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;startArrow=classic;startFill=1;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" source="2J2cOZMSKoOfH_H72ST4-63" target="2J2cOZMSKoOfH_H72ST4-2">
+        <mxCell id="2J2cOZMSKoOfH_H72ST4-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;startArrow=classic;startFill=1;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" source="2J2cOZMSKoOfH_H72ST4-22" target="2J2cOZMSKoOfH_H72ST4-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="140" />
-              <mxPoint x="480" y="140" />
+              <mxPoint x="480" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1689,20 +1679,21 @@
         <mxCell id="2J2cOZMSKoOfH_H72ST4-69" value="Smart Power Plug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="2J2cOZMSKoOfH_H72ST4-1">
           <mxGeometry x="480" y="561.25" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2J2cOZMSKoOfH_H72ST4-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;startArrow=classic;startFill=1;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" source="2J2cOZMSKoOfH_H72ST4-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="680" />
+              <mxPoint x="480" y="360" />
+              <mxPoint x="360" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2J2cOZMSKoOfH_H72ST4-70" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/travelling-icon-set/800/fan-128.png;fontSize=8;" vertex="1" parent="2J2cOZMSKoOfH_H72ST4-1">
           <mxGeometry x="548.25" y="660" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2J2cOZMSKoOfH_H72ST4-71" value="Smart Power Plug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="2J2cOZMSKoOfH_H72ST4-1">
           <mxGeometry x="480" y="718" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2J2cOZMSKoOfH_H72ST4-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;startArrow=classic;startFill=1;endArrow=none;endFill=1;strokeWidth=1;elbow=vertical;dashed=1;" edge="1" parent="2J2cOZMSKoOfH_H72ST4-1" source="2J2cOZMSKoOfH_H72ST4-38" target="2J2cOZMSKoOfH_H72ST4-71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="364" as="sourcePoint" />
-            <mxPoint x="548.25" y="680" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="480" y="364" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="2J2cOZMSKoOfH_H72ST4-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" vertex="1" parent="2J2cOZMSKoOfH_H72ST4-1">
           <mxGeometry x="496" y="690" width="28" height="28" as="geometry" />
