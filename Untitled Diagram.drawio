@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T08:44:39.118Z" agent="5.0 (iPad; CPU OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/98.0.4758.97 Mobile/15E148 Safari/604.1" etag="4tL5uhTdIavHKgv4SeIc" version="16.6.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-10T05:50:14.060Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="xoWcnrzG5kozR_osgsOk" version="17.0.0" type="github" pages="8">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
-    <mxGraphModel dx="1546" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1038,7 +1038,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Optimized Home Network" id="FHUE0CyAFmWkipKbSQsm">
-    <mxGraphModel dx="994" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_o8cqkO8TDDStstgQsMD-0" />
         <mxCell id="_o8cqkO8TDDStstgQsMD-1" parent="_o8cqkO8TDDStstgQsMD-0" />
@@ -1357,7 +1357,7 @@
         <mxCell id="_o8cqkO8TDDStstgQsMD-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="496" y="690" width="28" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-80" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
+        <mxCell id="_o8cqkO8TDDStstgQsMD-80" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="700.2" y="224" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-81" value="&lt;div style=&quot;font-size: 10px&quot;&gt;1. PPPoE&lt;/div&gt;2. DHCP/DNS&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;3. Gateway&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;4. Passwall&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
