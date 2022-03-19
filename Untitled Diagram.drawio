@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T07:47:56.241Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="hN59CwGfZPY3EomuHnbN" version="17.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-19T06:11:46.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="0IXZWLl-_m8SouO-rQ-7" version="17.1.3" type="github" pages="8">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
-    <mxGraphModel dx="1796" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1917" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -671,7 +671,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p1TgIIICJVoDg4X1nYYD" name="Home Network">
-    <mxGraphModel dx="946" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1289" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="s749lrRT0PUbc4pBVvso-0" />
         <mxCell id="s749lrRT0PUbc4pBVvso-1" parent="s749lrRT0PUbc4pBVvso-0" />
@@ -1038,7 +1038,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Optimized Home Network" id="FHUE0CyAFmWkipKbSQsm">
-    <mxGraphModel dx="946" dy="1632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1289" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_o8cqkO8TDDStstgQsMD-0" />
         <mxCell id="_o8cqkO8TDDStstgQsMD-1" parent="_o8cqkO8TDDStstgQsMD-0" />
@@ -1053,7 +1053,7 @@
         <mxCell id="_o8cqkO8TDDStstgQsMD-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="695.2" y="215" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YqxfCSv5G5xcRp8lKEOh-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-5" target="_o8cqkO8TDDStstgQsMD-9">
+        <mxCell id="YqxfCSv5G5xcRp8lKEOh-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-5" target="_o8cqkO8TDDStstgQsMD-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.patch_panel;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
@@ -1210,7 +1210,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;elbow=vertical;" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-38" target="_o8cqkO8TDDStstgQsMD-63" edge="1">
+        <mxCell id="_o8cqkO8TDDStstgQsMD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;elbow=vertical;" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-74" target="_o8cqkO8TDDStstgQsMD-63" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="364" />
@@ -1313,10 +1313,10 @@
           <mxGeometry x="610" y="590" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-68" value="192.168.123.150" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=5;fontColor=#FF3333;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="520" y="27.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="545" y="7.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-69" value="192.168.123.4/5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=5;fontColor=#FF3333;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="587.7" y="170" width="85" height="30" as="geometry" />
+          <mxGeometry x="622.5" y="150" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-70" value="Nintendo Switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="52.5" y="230" width="60" height="30" as="geometry" />
@@ -1332,13 +1332,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-72" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="428.5" y="92.5" width="28" height="28" as="geometry" />
+          <mxGeometry x="425" y="79.5" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-73" value="Smart Power Plug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="412.5" y="115" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="496" y="538.75" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-75" value="Smart Power Plug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="480" y="561.25" width="60" height="30" as="geometry" />
@@ -1358,9 +1355,9 @@
           <mxGeometry x="480" y="718" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="496" y="690" width="28" height="28" as="geometry" />
+          <mxGeometry x="496" y="680" width="28" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-80" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
+        <mxCell id="_o8cqkO8TDDStstgQsMD-80" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="700.2" y="224" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-81" value="&lt;div style=&quot;font-size: 10px&quot;&gt;1. PPPoE&lt;/div&gt;2. DHCP/DNS&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;3. Gateway&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;4. Passwall&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
@@ -1371,6 +1368,22 @@
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-83" value="&lt;div&gt;1. Photo Backup&lt;/div&gt;2. Media Server&lt;br&gt;&lt;div&gt;3. Google Cloud Backup&lt;/div&gt;&lt;div&gt;4. Linux VM&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="514" y="57.5" width="108.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_o8cqkO8TDDStstgQsMD-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
+          <mxGeometry x="496" y="522" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="AOlNTp7T8jEQxVMIvIrF-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-38" target="_o8cqkO8TDDStstgQsMD-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="435" y="364" as="sourcePoint" />
+            <mxPoint x="545" y="533.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOlNTp7T8jEQxVMIvIrF-2" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="_o8cqkO8TDDStstgQsMD-1">
+          <mxGeometry x="635" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AOlNTp7T8jEQxVMIvIrF-3" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="_o8cqkO8TDDStstgQsMD-1">
+          <mxGeometry x="600.2" y="230" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
