@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T04:55:44.592Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="SKKRhk5bNdQrG0lVpK3L" version="18.0.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-14T04:58:45.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="RU9d3uWKc0dew_eeJd0_" version="18.0.0" type="github" pages="8">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
     <mxGraphModel dx="1868" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1082,8 +1082,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uKIlPFZkRar8JcuHXI_n-5" value="HDMI1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=3;" edge="1" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-9">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0588" y="20" relative="1" as="geometry">
             <mxPoint x="200" y="150" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-9" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tablet;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
@@ -1233,21 +1234,22 @@
         <mxCell id="_o8cqkO8TDDStstgQsMD-41" value="XBOX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="280" y="27.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=3;elbow=vertical;" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-44" target="_o8cqkO8TDDStstgQsMD-9" edge="1">
+        <mxCell id="_o8cqkO8TDDStstgQsMD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=3;elbow=vertical;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="_o8cqkO8TDDStstgQsMD-1" source="_o8cqkO8TDDStstgQsMD-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="207" />
-              <mxPoint x="130" y="73" />
+              <mxPoint x="160" y="199" />
+              <mxPoint x="160" y="110" />
             </Array>
+            <mxPoint x="160" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-43" value="HDMI 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-42" vertex="1" connectable="0">
           <mxGeometry x="0.2764" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-19" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/super-batman/24/3151575_-_game_logo_nintendo_switch_video-128.png" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="65.5" y="190" width="34" height="34" as="geometry" />
+          <mxGeometry x="64" y="190" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-47" value="FireTV stick" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.firetv_stick;horizontal=1;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="180" y="155" width="35" height="35" as="geometry" />
@@ -1285,10 +1287,10 @@
         <mxCell id="_o8cqkO8TDDStstgQsMD-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_music-128.png" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="548.25" y="590" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-65" value="Smart Air Conditioner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
+        <mxCell id="_o8cqkO8TDDStstgQsMD-65" value="Smart Air Conditioner 客厅" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="610" y="433.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-66" value="Air Conditioner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
+        <mxCell id="_o8cqkO8TDDStstgQsMD-66" value="Air Conditioner&lt;br&gt;主卧" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="610" y="518.25" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-67" value="Speaker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
@@ -1334,7 +1336,7 @@
           <mxGeometry x="548.25" y="660" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-77" value="Smart Power Plug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="480" y="718" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="708" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="496" y="680" width="28" height="28" as="geometry" />
@@ -1352,7 +1354,7 @@
           <mxGeometry x="514" y="40" width="108.5" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="496" y="522" width="28" height="28" as="geometry" />
+          <mxGeometry x="496" y="536" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="AOlNTp7T8jEQxVMIvIrF-3" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="600.2" y="230" width="20" height="20" as="geometry" />
