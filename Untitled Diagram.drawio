@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T05:00:41.413Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="6jqN7hjIzqUIBM0gR0Ep" version="18.0.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-14T05:01:03.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="T1AMZ-mzMlD5HkfkZwgy" version="18.0.0" type="github" pages="8">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
     <mxGraphModel dx="1868" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1324,7 +1324,7 @@
           <mxGeometry x="425" y="79.5" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-73" value="Smart Power Plug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="412.5" y="115" width="60" height="30" as="geometry" />
+          <mxGeometry x="409" y="102.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-75" value="Smart Power Plug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="480" y="561.25" width="60" height="30" as="geometry" />
@@ -1346,10 +1346,10 @@
           <mxGeometry x="548.25" y="660" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-77" value="Smart Power Plug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="480" y="708" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="496" y="680" width="28" height="28" as="geometry" />
+          <mxGeometry x="496" y="690" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-80" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="700.2" y="224" width="20" height="20" as="geometry" />
