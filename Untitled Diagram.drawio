@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T04:58:45.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="RU9d3uWKc0dew_eeJd0_" version="18.0.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-14T04:59:32.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="nhUxbGsdSDNwvSiSfPr2" version="18.0.0" type="github" pages="8">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
     <mxGraphModel dx="1868" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1313,6 +1313,11 @@
               <mxPoint x="240" y="360" />
               <mxPoint x="240" y="245" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKIlPFZkRar8JcuHXI_n-6" value="Wi-Fi 6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="_o8cqkO8TDDStstgQsMD-71">
+          <mxGeometry x="0.0537" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-72" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
