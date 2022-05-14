@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T04:40:01.633Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ZQ3C5lp-CEigjQFTd0Ej" version="18.0.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-14T04:42:45.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="yJ3M7bAcO8C5sHELlkjg" version="18.0.0" type="github" pages="8">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
     <mxGraphModel dx="1868" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1038,7 +1038,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Optimized Home Network" id="FHUE0CyAFmWkipKbSQsm">
-    <mxGraphModel dx="1433" dy="2069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_o8cqkO8TDDStstgQsMD-0" />
         <mxCell id="_o8cqkO8TDDStstgQsMD-1" parent="_o8cqkO8TDDStstgQsMD-0" />
@@ -1315,8 +1315,8 @@
         <mxCell id="_o8cqkO8TDDStstgQsMD-68" value="192.168.123.150" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=5;fontColor=#FF3333;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="545" y="7.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-69" value="192.168.123.4/5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=5;fontColor=#FF3333;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="622.5" y="150" width="85" height="30" as="geometry" />
+        <mxCell id="_o8cqkO8TDDStstgQsMD-69" value="192.168.123.4/5/6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=5;fontColor=#FF3333;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
+          <mxGeometry x="587.7" y="160" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-70" value="Nintendo Switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="52.5" y="230" width="60" height="30" as="geometry" />
@@ -1372,11 +1372,11 @@
         <mxCell id="_o8cqkO8TDDStstgQsMD-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="496" y="522" width="28" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="AOlNTp7T8jEQxVMIvIrF-2" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="635" y="200" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="AOlNTp7T8jEQxVMIvIrF-3" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="600.2" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uKIlPFZkRar8JcuHXI_n-0" value="5/WAN/WAN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#fff2cc;strokeColor=none;arcSize=50;" vertex="1" parent="_o8cqkO8TDDStstgQsMD-1">
+          <mxGeometry x="633.1" y="190" width="62" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
