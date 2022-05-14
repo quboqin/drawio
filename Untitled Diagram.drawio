@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T06:13:19.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="EvrcGcOu33uN5R3GiDI6" version="17.1.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-14T04:40:01.633Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ZQ3C5lp-CEigjQFTd0Ej" version="18.0.0" type="github" pages="8">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
-    <mxGraphModel dx="1917" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1868" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1038,7 +1038,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Optimized Home Network" id="FHUE0CyAFmWkipKbSQsm">
-    <mxGraphModel dx="1289" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="2069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_o8cqkO8TDDStstgQsMD-0" />
         <mxCell id="_o8cqkO8TDDStstgQsMD-1" parent="_o8cqkO8TDDStstgQsMD-0" />
@@ -1082,7 +1082,7 @@
             <mxPoint x="515.2" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-12" value="WAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-11" vertex="1" connectable="0">
+        <mxCell id="_o8cqkO8TDDStstgQsMD-12" value="WAN&lt;br&gt;WAN0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-11" vertex="1" connectable="0">
           <mxGeometry x="-0.1018" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1183,8 +1183,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_o8cqkO8TDDStstgQsMD-29" value="Software&lt;br&gt;Router&lt;br&gt;X86/R4S" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
-          <mxGeometry x="600.2" y="265" width="60" height="30" as="geometry" />
+        <mxCell id="_o8cqkO8TDDStstgQsMD-29" value="Software&lt;br&gt;Router&lt;br&gt;X86/R4S?Newifi 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
+          <mxGeometry x="565.3000000000001" y="260" width="129.8" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-30" value="Fiber" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="700.2" y="235" width="60" height="30" as="geometry" />
@@ -1372,10 +1372,10 @@
         <mxCell id="_o8cqkO8TDDStstgQsMD-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="496" y="522" width="28" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="AOlNTp7T8jEQxVMIvIrF-2" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="_o8cqkO8TDDStstgQsMD-1">
+        <mxCell id="AOlNTp7T8jEQxVMIvIrF-2" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="635" y="200" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AOlNTp7T8jEQxVMIvIrF-3" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="_o8cqkO8TDDStstgQsMD-1">
+        <mxCell id="AOlNTp7T8jEQxVMIvIrF-3" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#fff2cc;strokeColor=none;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
           <mxGeometry x="600.2" y="230" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
