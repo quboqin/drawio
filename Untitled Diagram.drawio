@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T04:59:32.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="nhUxbGsdSDNwvSiSfPr2" version="18.0.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-14T05:00:41.413Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="6jqN7hjIzqUIBM0gR0Ep" version="18.0.0" type="github" pages="8">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
     <mxGraphModel dx="1868" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1335,6 +1335,11 @@
               <mxPoint x="480" y="680" />
               <mxPoint x="480" y="364" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKIlPFZkRar8JcuHXI_n-7" value="Wi-Fi 6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="lsHMlBK3a89hMWsJTO1_-0">
+          <mxGeometry x="0.52" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_o8cqkO8TDDStstgQsMD-76" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/travelling-icon-set/800/fan-128.png;fontSize=8;" parent="_o8cqkO8TDDStstgQsMD-1" vertex="1">
