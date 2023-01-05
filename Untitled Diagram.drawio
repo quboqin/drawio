@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T01:34:03.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TY0TH_H1HmXXKkSzb4nD" version="20.8.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-01-05T02:12:06.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="k8nYHf6V0umwEjQ6El63" version="20.8.1" type="github" pages="7">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
     <mxGraphModel dx="1444" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -754,6 +754,12 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hRJA12T5MTooDGB_q90u-24" value="Protocol Buffers" style="labelBackgroundColor=default;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="400" y="540" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hRJA12T5MTooDGB_q90u-25" value="«interface»&lt;br&gt;&lt;div style=&quot;color: rgb(212, 212, 212); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;jspb&lt;/span&gt;.&lt;span style=&quot;color: #4ec9b0;&quot;&gt;Message&lt;/span&gt;&lt;/div&gt;" style="html=1;labelBackgroundColor=none;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="610" y="490" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
