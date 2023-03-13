@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T10:07:26.309Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="0EuN_pgCgqybAbeMGXpC" version="17.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-13T08:33:49.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8x-brd4raALAGEbLDU-6" version="21.0.6" type="github" pages="5">
   <diagram id="Y5SZPlDqchn7_NLFBQAu" name="OpenWrt History">
-    <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="623" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -783,6 +783,44 @@
         </mxCell>
         <mxCell id="STwx2J5rzELR3wbZ9-de-60" value="7" style="ellipse;whiteSpace=wrap;html=1;" parent="STwx2J5rzELR3wbZ9-de-1" vertex="1">
           <mxGeometry x="580" y="970" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="slwGOKhY7tjNM63N4hug" name="第 5 页">
+    <mxGraphModel dx="623" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EUxPwGfih554tS9yyjkG-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="190" as="sourcePoint" />
+            <mxPoint x="210" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUxPwGfih554tS9yyjkG-2" value="业务Leader,中台Leader,测试Leader+我" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxPwGfih554tS9yyjkG-3" value="菲律宾业务需求,2周一次,排好优先级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxPwGfih554tS9yyjkG-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="224.5" as="sourcePoint" />
+            <mxPoint x="210" y="224.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUxPwGfih554tS9yyjkG-5" value="印尼业务需求,2周一次,排好优先级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxPwGfih554tS9yyjkG-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="EUxPwGfih554tS9yyjkG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="340" as="sourcePoint" />
+            <mxPoint x="220" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUxPwGfih554tS9yyjkG-7" value="研发技改需求, 每周或半年的规划会" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
