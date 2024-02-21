@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T08:30:55.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="aj2lMxIREmdR5lQpjlTi" version="23.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-21T09:58:12.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="RDEjjGT8b7-GE9frGZ8W" version="23.0.2" type="github" pages="9">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
     <mxGraphModel dx="1513" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -861,7 +861,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VtlkesryrqpfX3PHgHI8" name="Page-9">
-    <mxGraphModel dx="599" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -937,19 +937,19 @@
           <mxGeometry x="650" y="390" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-25" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#333333;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector;" vertex="1" parent="1">
-          <mxGeometry x="420.00000000000006" y="628" width="100" height="35" as="geometry" />
+          <mxGeometry x="410.00000000000006" y="640" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-26" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#FFFFFF;strokeColor=#333333;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector_screen;" vertex="1" parent="1">
           <mxGeometry x="290" y="212.5" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/logos/24/X-Box-128.png" vertex="1" parent="1">
-          <mxGeometry x="132" y="630" width="40" height="40" as="geometry" />
+          <mxGeometry x="320" y="780" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/iphone-7-airpods-icons-solid-style/24/apple-tv-box-128.png" vertex="1" parent="1">
-          <mxGeometry x="220" y="628" width="38" height="38" as="geometry" />
+          <mxGeometry x="320" y="640" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/super-batman/24/3151574_-_game_nintendo_switch_video-128.png" vertex="1" parent="1">
-          <mxGeometry x="310" y="628" width="40" height="40" as="geometry" />
+          <mxGeometry x="492" y="780" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-32" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;strokeColor=default;fontColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="40" width="20" height="20" as="geometry" />
@@ -999,16 +999,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-63" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;strokeColor=default;fontColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="640" width="20" height="20" as="geometry" />
+          <mxGeometry x="410" y="780" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-64" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;strokeColor=default;fontColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="660" width="20" height="20" as="geometry" />
+          <mxGeometry x="410" y="800" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-65" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;strokeColor=default;fontColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="640" width="20" height="20" as="geometry" />
+          <mxGeometry x="435" y="780" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-66" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;strokeColor=default;fontColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="660" width="20" height="20" as="geometry" />
+          <mxGeometry x="435" y="800" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-67" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;strokeColor=default;fontColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="580" width="20" height="20" as="geometry" />
