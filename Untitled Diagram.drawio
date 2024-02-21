@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T06:32:46.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3u9QYZevKGv7cN53zbwC" version="23.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-21T08:30:55.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="aj2lMxIREmdR5lQpjlTi" version="23.0.2" type="github" pages="9">
   <diagram id="DcG-QkM7QsBUlt7PBxuB" name="Page-1">
     <mxGraphModel dx="1513" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -861,7 +861,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VtlkesryrqpfX3PHgHI8" name="Page-9">
-    <mxGraphModel dx="1416" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="599" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -889,7 +889,7 @@
           <mxGeometry x="584.71" y="130" width="55.29" height="47" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-10" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1A1A1A;shape=mxgraph.azure.laptop" vertex="1" parent="1">
-          <mxGeometry x="700" y="620" width="83.33" height="50" as="geometry" />
+          <mxGeometry x="690" y="235" width="83.33" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1A1A1A;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="490.00000000000006" y="240" width="50" height="45" as="geometry" />
@@ -997,6 +997,24 @@
         </mxCell>
         <mxCell id="JTOSjAv7K6h3DpfT_loy-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="JTOSjAv7K6h3DpfT_loy-16" target="JTOSjAv7K6h3DpfT_loy-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTOSjAv7K6h3DpfT_loy-63" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;strokeColor=default;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="640" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JTOSjAv7K6h3DpfT_loy-64" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;strokeColor=default;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="660" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JTOSjAv7K6h3DpfT_loy-65" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;strokeColor=default;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="640" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JTOSjAv7K6h3DpfT_loy-66" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;strokeColor=default;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="660" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JTOSjAv7K6h3DpfT_loy-67" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;strokeColor=default;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="580" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JTOSjAv7K6h3DpfT_loy-68" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png;strokeColor=default;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="600" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
