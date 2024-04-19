@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T09:45:27.383Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="s6LZnLtVJ3w_CRvlb8X2" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-19T09:50:47.575Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7HJxPYzGRt19pAz2MG7G" version="24.2.5" type="github" pages="2">
   <diagram id="d8UvGMja9Jf0zXJdzZ-w" name="第 1 页">
     <mxGraphModel dx="1562" dy="1372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,6 +170,30 @@
         </mxCell>
         <mxCell id="SbQ_OxI6VC6Ty8mq9zJZ-39" value="1. 决策很多逻辑在各个微服务的逻辑中&lt;div&gt;2. 计算逻辑是通过“命令式”, 也分布在不同的服务中,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;不直观, 难于维护&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. 数据腐败, 治理困难&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="330" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SbQ_OxI6VC6Ty8mq9zJZ-41" value="LLM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SbQ_OxI6VC6Ty8mq9zJZ-42" value="领域Model" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SbQ_OxI6VC6Ty8mq9zJZ-43" value="专家系统&lt;div&gt;Drools&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="760" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SbQ_OxI6VC6Ty8mq9zJZ-44" value="Agent" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SbQ_OxI6VC6Ty8mq9zJZ-46" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="40" y="790" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SbQ_OxI6VC6Ty8mq9zJZ-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="780" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SbQ_OxI6VC6Ty8mq9zJZ-48" value="Listing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="110" y="705" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbQ_OxI6VC6Ty8mq9zJZ-49" value="&amp;nbsp;Micro Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="140" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
