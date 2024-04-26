@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T05:49:49.677Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="U3rkHib35H3mgJ88xIAY" version="24.2.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-26T05:59:35.223Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zTGHCCTl9a_faYg0E4Y3" version="24.2.5" type="github" pages="3">
   <diagram id="d8UvGMja9Jf0zXJdzZ-w" name="第 1 页">
     <mxGraphModel dx="794" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ctX9P0Rb3Q8BjMg53e1z" name="Page-3">
-    <mxGraphModel dx="1644" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,6 +244,14 @@
         </mxCell>
         <mxCell id="0wlgQnRAhUPCT32XM-is-8" value="provide" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0wlgQnRAhUPCT32XM-is-7">
           <mxGeometry x="-0.0818" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0wlgQnRAhUPCT32XM-is-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0wlgQnRAhUPCT32XM-is-1" target="0wlgQnRAhUPCT32XM-is-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wlgQnRAhUPCT32XM-is-23" value="binding" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0wlgQnRAhUPCT32XM-is-22">
+          <mxGeometry x="-0.0732" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -289,6 +297,13 @@
         <mxCell id="0wlgQnRAhUPCT32XM-is-4" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0wlgQnRAhUPCT32XM-is-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="0wlgQnRAhUPCT32XM-is-6" target="0wlgQnRAhUPCT32XM-is-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0wlgQnRAhUPCT32XM-is-6" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -303,21 +318,39 @@
         <mxCell id="0wlgQnRAhUPCT32XM-is-9" value="Social Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0wlgQnRAhUPCT32XM-is-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0wlgQnRAhUPCT32XM-is-16" target="0wlgQnRAhUPCT32XM-is-6">
+        <mxCell id="0wlgQnRAhUPCT32XM-is-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0wlgQnRAhUPCT32XM-is-16" target="0wlgQnRAhUPCT32XM-is-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0wlgQnRAhUPCT32XM-is-16" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="0wlgQnRAhUPCT32XM-is-20" value="payment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0wlgQnRAhUPCT32XM-is-17">
+          <mxGeometry x="0.5" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0wlgQnRAhUPCT32XM-is-16" value="bank account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0wlgQnRAhUPCT32XM-is-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0wlgQnRAhUPCT32XM-is-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="330" as="targetPoint" />
+            <mxPoint x="-10" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0wlgQnRAhUPCT32XM-is-18" value="fee per month" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wlgQnRAhUPCT32XM-is-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0wlgQnRAhUPCT32XM-is-21" target="0wlgQnRAhUPCT32XM-is-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-280" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0wlgQnRAhUPCT32XM-is-21" value="APP/Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wlgQnRAhUPCT32XM-is-25" value="&amp;lt;Interface&amp;gt;&lt;div&gt;payable&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
