@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T08:57:48.283Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3GAVBSd4-BlsRij68rZy" version="24.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-15T09:00:57.200Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VCoyj8TW48vnhDHjgiK7" version="24.4.0" type="github" pages="6">
   <diagram id="Y5SZPlDqchn7_NLFBQAu" name="OpenWrt History">
     <mxGraphModel dx="601" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -844,7 +844,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VkhnLyhoeLby5cFT5YpA" name="Page-6">
-    <mxGraphModel dx="228" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="388" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -900,6 +900,9 @@
         </mxCell>
         <mxCell id="_rJ5chQkGH9n3yx63IeY-4" value="vmbr0" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/logos-brands-1/24/logo_brand_brands_logos_bridge_adobe-128.png;fontColor=#4395d1;spacingRight=-72;spacingTop=-31;" vertex="1" parent="1">
           <mxGeometry x="649.66" y="295" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_rJ5chQkGH9n3yx63IeY-16" value="iStore or Openwrt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="364" y="205" width="122.23" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
