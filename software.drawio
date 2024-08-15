@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T03:43:36.430Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="cI58h4Ga1_MW7UvLuw0A" version="24.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="4">
   <diagram id="d8UvGMja9Jf0zXJdzZ-w" name="第 1 页">
     <mxGraphModel dx="1026" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -268,6 +268,26 @@
             <mxGeometry x="380" y="330" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VzM8Z5oGC6Jd2Qjj01Ok" name="Page-4">
+    <mxGraphModel dx="713" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cDw2lLFmCdkhlXkJrBif-4" value="PVE" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;align=left;verticalAlign=top;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="540" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="cDw2lLFmCdkhlXkJrBif-1" value="主路由" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDw2lLFmCdkhlXkJrBif-2" value="旁路由" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=4;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDw2lLFmCdkhlXkJrBif-3" value="PVE Host" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=9;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
