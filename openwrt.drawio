@@ -923,11 +923,11 @@
         <mxCell id="QVwZ4fodShFe-btb61X8-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAZKADAAQAAAABAAAAZAAAAAAvu95BAAADkElEQVR4Ae2czatNURjGj48iVzIQ0u2WlAmJkTCRgaIMUAamiFLKiBGZmfsXpHTpFuVjwBQxMUBKXaauks8oX8+rs+vEvh9r7b3P+vq99dyzW3evtd739+x9zj7nrLN7PQICEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAgToC8+oaG7YtUP+VfS1sOFas3X8osbd9/Yw1yV1K7Lr0WfpdiKzWa9JOKZpYqkzGpVJMmK7Oq2JgLILGiGZ/Ik2XZGntj8XCmASLK5q5NOiz1Xs5lBs7MKP2YPwlLtt8TZnv21H9TjTom3NXu3I97ltgk8veKU26wnfizPvZJfEqnxp9DbGriU8+ExbUxxh9ca3X9ylruetEBe7vxcjXkAL5Opfs9eyDIc6cu+2AId3ydR4dQ5yRddsBQ7rl6zw6hjgj67YDhnTL13l0DHFG1m2HFA2xb+jsE9X73aJJa/RRpTvbx9Bd/f/SAKqt2r4VMJeZajRGzpHiGTI5UOUjbe+VNkvjkgFKOlI0pA74UzUekrZISRuTiyGVSckbk5shyRuTqyH/GmNfqd6rGmN+zN2Qir29+O+WHlYNsT6WYojxtyuwaFcZVgdIKYZsUsE3JFspE3Xkuva2gr5BG2ekw5KtOY4+cjUkOSOqIyU3Q5I1IjdDkjciZUPGquT1aC/W56QDktcqD/WLKlJ8yjopgiPSGmmPlIURquNvpGiI5Xy0n392D6W8D0nGOAyJzCoMwZDICESWDmcIhkRGILJ0OEMyMST67xUi4OzFyPddrr05+y5xhtU7b7/EXSTZLTicwheoTfTSaaaydn6hcp3NMES+hljfCftD1BIIwsbu+PNRmmk5ZYn/s18ne/0kutZax8ZjGPLfAXnEkWHru1/QiPYiVuLZMFizMTjfOl3PAQ+q3xtpMMGStl+r9v1S4/C97K2beLEa90m2Gn2dtETKOb6quFfSbemm9E0iIAABCEAAAkUT2Kjq70oh32Ta3HckW99VdIyq+vdSLJfIH5TLWEhHmnyW1UbepzWI132l2pi8ZoxlajtV0z60ptCGrB9apXOfKGhOoQ15PndOQ9vz2dBminCi1crpnRTLa8iUcrGcgkWbH534FrFWHS9K2yVbsxsi7B7uD6Sz0mSIBJgTAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAQK/3B5ZpRHQlf26MAAAAAElFTkSuQmCC;" vertex="1" parent="1">
           <mxGeometry x="400" y="534.5" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QVwZ4fodShFe-btb61X8-16" value="1. 桥接或拨号上网&#xa;2. Tailscale VPN&#xa;3. 备选科学&#xa;&#xa;IP: 192.168.123.1" style="text;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="322.5" width="180" height="90" as="geometry" />
+        <mxCell id="QVwZ4fodShFe-btb61X8-16" value="1. 桥接或拨号上网&#xa;2. DNS&#xa;3. Tailscale VPN&#xa;4. 备选科学&#xa;&#xa;IP: 192.168.123.1" style="text;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=none;shadow=1;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="210" y="295" width="110" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="QVwZ4fodShFe-btb61X8-17" value="1. 科学&#xa;&#xa;IP: 192.168.123.3" style="text;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="310" width="180" height="90" as="geometry" />
+        <mxCell id="QVwZ4fodShFe-btb61X8-17" value="1. 科学&#xa;2. DNS&#xa;&#xa;IP: 192.168.123.3" style="text;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=none;shadow=1;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="610" y="307.5" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
