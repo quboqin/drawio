@@ -16,8 +16,8 @@
         <mxCell id="nz9KDWi--6C53xwOjVqW-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="230" y="510" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="nz9KDWi--6C53xwOjVqW-10" value="&lt;b&gt;LinkSys WRT 54G 发布&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255));&quot;&gt;OpenWRT项目的历史可以追溯到2002年发布&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255));&quot;&gt;的LinkSys WRT 54G路由器.&amp;nbsp;这款标志性的&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255));&quot;&gt;路由器为OpenWRT的诞生和发展奠定了基础.&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;overflow=hidden;rounded=0;verticalAlign=top;horizontal=1;labelBackgroundColor=none;textShadow=1;spacingLeft=4;spacingRight=4;spacingTop=4;spacingBottom=4;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="540" width="215" height="80" as="geometry" />
+        <mxCell id="nz9KDWi--6C53xwOjVqW-10" value="&lt;b&gt;LinkSys WRT 54G 发布&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255));&quot;&gt;OpenWRT项目的历史可以追溯到2002年发布&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255));&quot;&gt;的LinkSys WRT 54G路由器.&amp;nbsp;这款标志性的&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255));&quot;&gt;路由器为OpenWRT的诞生和发展奠定了基础.&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px; color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255));&quot;&gt;包含包管理器的、类似Linux发行版的嵌入式操作系统，允许用户轻松添加/删除软件，从而极大地扩展了路由器的功能&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;overflow=hidden;rounded=0;verticalAlign=top;horizontal=1;labelBackgroundColor=none;textShadow=1;spacingLeft=4;spacingRight=4;spacingTop=4;spacingBottom=4;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="540" width="215" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nz9KDWi--6C53xwOjVqW-11" value="2002" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="205" y="520" width="60" height="30" as="geometry" />
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="nz9KDWi--6C53xwOjVqW-77" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(236, 236, 236);&quot;&gt;现代的版本演化&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="910" y="670" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-84" value="社区逐渐壮大，贡献者遍布全球。功能也日益丰富，包括更高级的路由、防火墙、VPN、QoS、服务器功能（如Web、FTP、BitTorrent）等等" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=#A680B8;labelBackgroundColor=default;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="395" y="490" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
