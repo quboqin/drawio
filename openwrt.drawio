@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.3" pages="6">
   <diagram id="Y5SZPlDqchn7_NLFBQAu" name="OpenWrt History">
-    <mxGraphModel dx="727" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="679" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,6 +148,15 @@
         <mxCell id="nz9KDWi--6C53xwOjVqW-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="650" y="880" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-51" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;align=center;verticalAlign=middle;spacingLeft=60;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=classic;curved=1;" edge="1" parent="1" source="nz9KDWi--6C53xwOjVqW-36" target="nz9KDWi--6C53xwOjVqW-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-53" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;align=center;verticalAlign=middle;spacingLeft=60;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" edge="1" parent="1" source="nz9KDWi--6C53xwOjVqW-36" target="nz9KDWi--6C53xwOjVqW-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-54" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;align=center;verticalAlign=middle;spacingLeft=60;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;curved=1;" edge="1" parent="1" source="nz9KDWi--6C53xwOjVqW-36" target="nz9KDWi--6C53xwOjVqW-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nz9KDWi--6C53xwOjVqW-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="730" y="970" width="10" height="10" as="geometry" />
         </mxCell>
@@ -157,14 +166,41 @@
         <mxCell id="nz9KDWi--6C53xwOjVqW-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;LEDE与OpenWRT项目重新合并&lt;/font&gt;&lt;br&gt;&lt;b&gt;LEDE与OpenWRT项目重新合并, 并继续使用OpenWRT的名称&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255)); font-size: 10px; font-style: italic;&quot;&gt;这次合并继承了LEDE的许多改进&lt;/font&gt;&lt;/span&gt;" style="text;html=1;overflow=hidden;rounded=0;verticalAlign=top;horizontal=1;labelBackgroundColor=none;textShadow=1;spacingLeft=4;spacingRight=4;spacingTop=4;spacingBottom=4;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="1000" width="220" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-63" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;align=center;verticalAlign=middle;spacingLeft=60;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=classic;" edge="1" parent="1" source="nz9KDWi--6C53xwOjVqW-43" target="nz9KDWi--6C53xwOjVqW-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nz9KDWi--6C53xwOjVqW-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="940" y="860" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-66" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;align=center;verticalAlign=middle;spacingLeft=60;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" edge="1" parent="1" source="nz9KDWi--6C53xwOjVqW-44" target="nz9KDWi--6C53xwOjVqW-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nz9KDWi--6C53xwOjVqW-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="940" y="970" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nz9KDWi--6C53xwOjVqW-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="940" y="1080" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-55" value="&lt;b&gt;KoolShare(软件中心)&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255)); font-size: 10px; font-style: italic;&quot;&gt;作为OpenWRT的一个流行分支, 集成了“软件中心”功能, 方便用户安装和管理各种插件&lt;/font&gt;&lt;/span&gt;" style="text;html=1;overflow=hidden;rounded=0;verticalAlign=top;horizontal=1;labelBackgroundColor=none;textShadow=1;spacingLeft=4;spacingRight=4;spacingTop=4;spacingBottom=4;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="860" y="770" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-58" value="&lt;b&gt;LEAN LEDE&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255)); font-size: 10px; font-style: italic;&quot;&gt;由Lean维护, 接近OpenWRT原生状态, 没有过多的深度定制, 系统稳定, 集成实用插件, 满足日常的使用需求&lt;/font&gt;&lt;/span&gt;" style="text;html=1;overflow=hidden;rounded=0;verticalAlign=top;horizontal=1;labelBackgroundColor=none;textShadow=1;spacingLeft=4;spacingRight=4;spacingTop=4;spacingBottom=4;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="930" y="890" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-60" value="&lt;b&gt;Lienol&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255)); font-size: 10px; font-style: italic;&quot;&gt;由Lienol编译的固件包含了passwall和ssr-plus这两个插件&lt;/font&gt;&lt;/span&gt;" style="text;html=1;overflow=hidden;rounded=0;verticalAlign=top;horizontal=1;labelBackgroundColor=none;textShadow=1;spacingLeft=4;spacingRight=4;spacingTop=4;spacingBottom=4;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1045" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="860" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-64" value="&lt;b&gt;iStoreOS&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255)); font-size: 10px; font-style: italic;&quot;&gt;作为OpenWRT的一个流行分支, 集成了“软件中心”功能, 方便用户安装和管理各种插件&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;overflow=hidden;rounded=0;verticalAlign=top;horizontal=1;labelBackgroundColor=none;textShadow=1;spacingLeft=4;spacingRight=4;spacingTop=4;spacingBottom=4;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="780" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="970" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-67" value="&lt;b&gt;iMortalWRT&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255)); font-size: 10px; font-style: italic;&quot;&gt;由Lean维护, 接近OpenWRT原生状态, 没有过多的深度定制, 系统稳定, 集成实用插件, 满足日常的使用需求&lt;/font&gt;&lt;/span&gt;" style="text;html=1;overflow=hidden;rounded=0;verticalAlign=top;horizontal=1;labelBackgroundColor=none;textShadow=1;spacingLeft=4;spacingRight=4;spacingTop=4;spacingBottom=4;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="980" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
