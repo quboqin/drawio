@@ -874,7 +874,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="gGVaBO4z816EtMDfqb-8" name="第 6 页">
+  <diagram id="gGVaBO4z816EtMDfqb-8" name="Smart Home">
     <mxGraphModel dx="999" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -948,7 +948,7 @@
           <mxGeometry x="545" y="480" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hAiz5u3quIikx9BKwI2x-1" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;1. 主路由稳定 7 * 24 可用&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;2. 外网可以稳定高速的访问内网&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;3. alist映射的网盘可以在外网访问&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;4. 稳定安全的科学上网环境&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;5. wifi信号全屋覆盖, 一个热点5G和2.4G合并&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;6. 支持ipv6&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=5;pointerEvents=1;align=left;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="30" y="120" width="200" height="130" as="geometry" />
+          <mxGeometry x="30" y="100" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hAiz5u3quIikx9BKwI2x-3" value="桥接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="440" y="260" width="50" height="30" as="geometry" />
