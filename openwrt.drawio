@@ -157,6 +157,9 @@
         <mxCell id="nz9KDWi--6C53xwOjVqW-40" value="2018" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="705" y="980" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nz9KDWi--6C53xwOjVqW-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;LEDE与OpenWRT项目重新合并&lt;/font&gt;&lt;br&gt;&lt;b&gt;LEDE与OpenWRT项目重新合并, 并继续使用OpenWRT的名称&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(166, 128, 184), rgb(255, 255, 255)); font-size: 10px; font-style: italic;&quot;&gt;这次合并继承了LEDE的许多改进&lt;/font&gt;&lt;/span&gt;" style="text;html=1;overflow=hidden;rounded=0;verticalAlign=top;horizontal=1;labelBackgroundColor=none;textShadow=1;spacingLeft=4;spacingRight=4;spacingTop=4;spacingBottom=4;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1000" width="220" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
