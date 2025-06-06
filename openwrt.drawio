@@ -1133,6 +1133,11 @@
             <mxPoint x="160" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eN7qGMU7pOv6USU4Suoz-1" value="DNS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="410" y="370" as="geometry">
+            <mxPoint x="14" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
