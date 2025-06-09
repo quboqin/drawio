@@ -1039,7 +1039,7 @@
             <mxPoint x="210" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mqcVjYGGFW6KHiHRuObQ-4" value="&lt;ul&gt;&lt;li&gt;Ubuntu 192.168.123.66&lt;/li&gt;&lt;li&gt;Windows&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Helvetica;fontSize=11;fontColor=#A680B8;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="mqcVjYGGFW6KHiHRuObQ-4" value="&lt;ul&gt;&lt;li&gt;Ubuntu 192.168.123.66&lt;/li&gt;&lt;li&gt;openwrt x86 192.168.123.9&lt;/li&gt;&lt;li&gt;Windows&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Helvetica;fontSize=11;fontColor=#A680B8;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="540" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
