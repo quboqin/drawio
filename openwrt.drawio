@@ -1004,6 +1004,9 @@
         <mxCell id="hAqcBGgdJXQDGByBS03_-7" value="&lt;ul&gt;&lt;li&gt;拨号&lt;/li&gt;&lt;li&gt;DHCP禁用&lt;/li&gt;&lt;li&gt;端口转发/PuP&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Helvetica;fontSize=11;fontColor=#A680B8;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="370" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fZbeU-d8WhfryQ1IlN05-6" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#999999;align=center;verticalAlign=middle;spacingLeft=60;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" edge="1" parent="1" source="hAqcBGgdJXQDGByBS03_-8" target="hAqcBGgdJXQDGByBS03_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hAqcBGgdJXQDGByBS03_-8" value="&lt;ul&gt;&lt;li&gt;AList&lt;/li&gt;&lt;li&gt;Home Assistant&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Helvetica;fontSize=11;fontColor=#A680B8;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="480" width="130" height="80" as="geometry" />
         </mxCell>
@@ -1045,6 +1048,24 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="370" as="sourcePoint" />
             <mxPoint x="210" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZbeU-d8WhfryQ1IlN05-3" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;align=center;verticalAlign=middle;spacingLeft=60;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" edge="1" parent="1" source="mqcVjYGGFW6KHiHRuObQ-4" target="QVwZ4fodShFe-btb61X8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZbeU-d8WhfryQ1IlN05-5" value="DNS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="fZbeU-d8WhfryQ1IlN05-3">
+          <mxGeometry x="-0.0998" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZbeU-d8WhfryQ1IlN05-4" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#999999;align=center;verticalAlign=middle;spacingLeft=60;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mqcVjYGGFW6KHiHRuObQ-4" target="QVwZ4fodShFe-btb61X8-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZbeU-d8WhfryQ1IlN05-7" value="DNS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="fZbeU-d8WhfryQ1IlN05-4">
+          <mxGeometry x="0.0611" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mqcVjYGGFW6KHiHRuObQ-4" value="&lt;ul&gt;&lt;li&gt;Ubuntu 192.168.123.88&lt;/li&gt;&lt;li&gt;openwrt x86 192.168.123.9&lt;/li&gt;&lt;li&gt;Windows&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Helvetica;fontSize=11;fontColor=#A680B8;labelBackgroundColor=none;" parent="1" vertex="1">
