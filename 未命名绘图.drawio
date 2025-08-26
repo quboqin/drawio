@@ -106,6 +106,33 @@
         <mxCell id="_9CQi5buexosWfbw4RC7-28" value="AI Agent&lt;br&gt;&lt;div&gt;1. 根据Layout模版渲染&lt;/div&gt;&lt;div&gt;2. 根据native language生成动画&lt;/div&gt;&lt;div&gt;3. 生成最终的整合页面&lt;/div&gt;&lt;div&gt;4. 修改文字内容&lt;/div&gt;&lt;div&gt;5. 同步文字， element， block和slide的内容&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="710" y="980" width="253" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="_9CQi5buexosWfbw4RC7-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-590" width="600" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CQi5buexosWfbw4RC7-36" value="Home Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-584" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CQi5buexosWfbw4RC7-37" value="User&lt;div&gt;Sign in/Up&lt;/div&gt;&lt;div&gt;Profile&lt;/div&gt;&lt;div&gt;Plan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-580" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CQi5buexosWfbw4RC7-41" value="Project 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="474" y="-480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CQi5buexosWfbw4RC7-42" value="Project 2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CQi5buexosWfbw4RC7-43" value="Project 3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="769" y="-480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CQi5buexosWfbw4RC7-44" value="Project 4" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="474" y="-360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CQi5buexosWfbw4RC7-45" value="Project 5" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CQi5buexosWfbw4RC7-46" value="+" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-360" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
