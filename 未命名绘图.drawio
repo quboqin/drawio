@@ -133,6 +133,9 @@
         <mxCell id="_9CQi5buexosWfbw4RC7-46" value="+" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="770" y="-360" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="_9CQi5buexosWfbw4RC7-47" value="Project Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
