@@ -1,45 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
-  <diagram name="第 1 页" id="YzDjJF2yYc8Z0HYTVlCp">
-    <mxGraphModel dx="1454" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1" pages="2">
+  <diagram name="prototype" id="YzDjJF2yYc8Z0HYTVlCp">
+    <mxGraphModel dx="2545" dy="2679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_9CQi5buexosWfbw4RC7-26" value="Data Struct based on Core Assumptions&lt;br&gt;&lt;div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;1. H1 corresponds to Slide&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;2. The content manually selected by the user under H1 corresponds to Block&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;;&quot; class=&quot;s1&quot;&gt;，&lt;/span&gt;the default can be H2&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="700" width="253" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_9CQi5buexosWfbw4RC7-27" target="_9CQi5buexosWfbw4RC7-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-34" value="update" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_9CQi5buexosWfbw4RC7-31">
-          <mxGeometry x="-0.1522" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-27" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;Traditional Client Services&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="910" y="960" width="253" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_9CQi5buexosWfbw4RC7-28" target="_9CQi5buexosWfbw4RC7-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-30" value="API Tools" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_9CQi5buexosWfbw4RC7-29">
-          <mxGeometry x="0.1099" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_9CQi5buexosWfbw4RC7-28" target="_9CQi5buexosWfbw4RC7-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-33" value="update" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_9CQi5buexosWfbw4RC7-32">
-          <mxGeometry x="0.1516" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="_9CQi5buexosWfbw4RC7-28" target="_9CQi5buexosWfbw4RC7-75">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-28" value="AI Agent" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1258.5" y="960" width="253" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="_9CQi5buexosWfbw4RC7-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="-600" width="600" height="400" as="geometry" />
         </mxCell>
@@ -199,11 +163,55 @@
         <mxCell id="_9CQi5buexosWfbw4RC7-74" value="Export" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482" y="730" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="1160" width="220" height="120" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Jo0pwBq6PryfRzOb6eE7" name="architecture">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jlOUo-dZT6LS6ig9AsPo-1" value="Data Struct based on Core Assumptions&lt;br&gt;&lt;div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;1. H1 corresponds to Slide&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;2. The content manually selected by the user under H1 corresponds to Block&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;;&quot; class=&quot;s1&quot;&gt;，&lt;/span&gt;the default can be H2&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="253" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Memory&lt;/h1&gt;&lt;p&gt;- Animations and Events&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="1170" width="180" height="90" as="geometry" />
+        <mxCell id="jlOUo-dZT6LS6ig9AsPo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jlOUo-dZT6LS6ig9AsPo-4" target="jlOUo-dZT6LS6ig9AsPo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlOUo-dZT6LS6ig9AsPo-3" value="update" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jlOUo-dZT6LS6ig9AsPo-2">
+          <mxGeometry x="-0.1522" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlOUo-dZT6LS6ig9AsPo-4" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;Traditional Client Services&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="253" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jlOUo-dZT6LS6ig9AsPo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jlOUo-dZT6LS6ig9AsPo-10" target="jlOUo-dZT6LS6ig9AsPo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlOUo-dZT6LS6ig9AsPo-6" value="API Tools" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jlOUo-dZT6LS6ig9AsPo-5">
+          <mxGeometry x="0.1099" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlOUo-dZT6LS6ig9AsPo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jlOUo-dZT6LS6ig9AsPo-10" target="jlOUo-dZT6LS6ig9AsPo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlOUo-dZT6LS6ig9AsPo-8" value="update" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jlOUo-dZT6LS6ig9AsPo-7">
+          <mxGeometry x="0.1516" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlOUo-dZT6LS6ig9AsPo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="jlOUo-dZT6LS6ig9AsPo-10" target="jlOUo-dZT6LS6ig9AsPo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlOUo-dZT6LS6ig9AsPo-10" value="AI Agent" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="468.5" y="290" width="253" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jlOUo-dZT6LS6ig9AsPo-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="490" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jlOUo-dZT6LS6ig9AsPo-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Memory&lt;/h1&gt;&lt;p&gt;- Animations and Events&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="500" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
