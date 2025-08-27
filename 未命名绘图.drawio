@@ -163,7 +163,7 @@
         <mxCell id="_9CQi5buexosWfbw4RC7-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.081;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="_9CQi5buexosWfbw4RC7-53" target="_9CQi5buexosWfbw4RC7-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-65" value="Preview &amp;amp; Export" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_9CQi5buexosWfbw4RC7-65" value="Preview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-40" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_9CQi5buexosWfbw4RC7-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_9CQi5buexosWfbw4RC7-65" target="_9CQi5buexosWfbw4RC7-62">
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="_9CQi5buexosWfbw4RC7-72" value="Preview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CQi5buexosWfbw4RC7-74" value="Export" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482" y="730" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
