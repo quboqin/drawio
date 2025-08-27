@@ -47,10 +47,10 @@
           <mxGeometry x="474" y="460" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="_9CQi5buexosWfbw4RC7-16" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Slide Layout &amp;amp; Block Editor&lt;/h1&gt;&lt;p&gt;When I select a slide, the slide will be showed on this area. And a slide contains blocks&lt;span style=&quot;font-size: 10px;&quot;&gt;. you can range these blocks by &#39;drag and drop&#39;. And you can also select a block, then the block can also be edit in above area &#39;Block Editor&#39;, you can choise the sub-layout (手绘或截图) to generate(by AI) element diagram in &#39;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block Editor&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&#39;， one block contains &#39;elements&#39;, you can also edit elements by &#39;drag and drop&#39;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="277" y="-150" width="230" height="240" as="geometry" />
+          <mxGeometry x="860" y="-200" width="230" height="240" as="geometry" />
         </mxCell>
         <mxCell id="_9CQi5buexosWfbw4RC7-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;一个约定&lt;/h1&gt;&lt;div&gt;Markdown的&lt;/div&gt;&lt;div&gt;H1 对应 Slide&lt;/div&gt;&lt;div&gt;H2 对应 Block&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-wrap-mode: nowrap; background-color: transparent; font-weight: normal;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bh1%20style%3D%26quot%3Bmargin-top%3A%200px%3B%26quot%3B%26gt%3BSlide%20Layout%26lt%3B%2Fh1%26gt%3B%26lt%3Bp%26gt%3BWhen%20I%20select%20a%20slide%2C%20the%20slide%20will%20be%20showed%20on%20this%20area.%20And%20a%20slide%20contains%20blocks%26lt%3B%2Fp%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3Boverflow%3Dhidden%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22190%22%20y%3D%22470%22%20width%3D%22180%22%20height%3D%22150%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="-50" width="180" height="110" as="geometry" />
+          <mxGeometry x="880" y="30" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_9CQi5buexosWfbw4RC7-18" value="element 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="160" width="76" height="20" as="geometry" />
@@ -107,34 +107,34 @@
           <mxGeometry x="710" y="980" width="253" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_9CQi5buexosWfbw4RC7-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-590" width="600" height="400" as="geometry" />
+          <mxGeometry x="160" y="-600" width="600" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-36" value="Home Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-584" width="60" height="30" as="geometry" />
+        <mxCell id="_9CQi5buexosWfbw4RC7-36" value="Home Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-37" value="User&lt;div&gt;Sign in/Up&lt;/div&gt;&lt;div&gt;Profile&lt;/div&gt;&lt;div&gt;Plan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="-580" width="20" height="30" as="geometry" />
+        <mxCell id="_9CQi5buexosWfbw4RC7-37" value="&lt;div&gt;Sign in/Up&lt;/div&gt;&lt;div&gt;Profile&lt;/div&gt;&lt;div&gt;Plan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;align=right;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-590" width="15" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-41" value="Project 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="474" y="-480" width="80" height="80" as="geometry" />
+        <mxCell id="_9CQi5buexosWfbw4RC7-41" value="Project 1" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="262" y="-500" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-42" value="Project 2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-480" width="80" height="80" as="geometry" />
+        <mxCell id="_9CQi5buexosWfbw4RC7-42" value="Project 2" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="408" y="-500" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-43" value="Project 3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="769" y="-480" width="80" height="80" as="geometry" />
+        <mxCell id="_9CQi5buexosWfbw4RC7-43" value="Project 3" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="557" y="-500" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-44" value="Project 4" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="474" y="-360" width="80" height="80" as="geometry" />
+        <mxCell id="_9CQi5buexosWfbw4RC7-44" value="Project 4" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="262" y="-380" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-45" value="Project 5" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-360" width="80" height="80" as="geometry" />
+        <mxCell id="_9CQi5buexosWfbw4RC7-45" value="Project 5" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="408" y="-380" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-46" value="+" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-360" width="80" height="80" as="geometry" />
+        <mxCell id="_9CQi5buexosWfbw4RC7-46" value="+" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="558" y="-380" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_9CQi5buexosWfbw4RC7-47" value="Project Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="10" width="60" height="30" as="geometry" />
+        <mxCell id="_9CQi5buexosWfbw4RC7-49" value="Playground Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
