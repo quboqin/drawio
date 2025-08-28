@@ -404,7 +404,7 @@
         <mxCell id="qhU4o3E2j95NwNKhK2Pi-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="223.75" y="630" width="212.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="qhU4o3E2j95NwNKhK2Pi-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Memory&lt;/h1&gt;&lt;p&gt;- Animations and Events&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qhU4o3E2j95NwNKhK2Pi-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Memory&lt;/h1&gt;&lt;p&gt;- History of conversaation&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="237.5" y="640" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
